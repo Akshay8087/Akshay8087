@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay Rathod</h1>
-<h3 align="center">A passionate "Data Science Enthusiast | Exploring Big Data & AI"frontend developer from India</h3>
+<h3 align="center">A passionate "Data Science Enthusiast | Exploring Big Data & AI I Am from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay8087&label=Profile%20views&color=0e75b6&style=flat" alt="akshay8087" /> </p>
 
