@@ -6,17 +6,15 @@ Welcome to my GitHub profile! I'm an aspiring **Data Scientist** and **AI enthus
   <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Data+Scientist;Passionate+about+Machine+Learning+%26+AI;Data+Analytics+%7C+Visualization;Let's+Explore+Data+Together!&font=Fira%20Code&center=true&width=500&height=50&color=f75c7e&vCenter=true&size=22" alt="Typing SVG">
 </div>
 
-![Profile Banner](https://media.giphy.com/media/l0HlBo7eyXzSZkJri/giphy.gif)
-
 ## 🚀 About Me
 - 🔭 I’m currently working on **Machine Learning** and **AI projects**.
 - 🌱 Learning new technologies and exploring **Google Cloud Platform**.
 - 👯 I’m looking to collaborate on **open-source data science projects**.
-- 📫 How to reach me: **akshayrathod8179@gmail.com**.
-- ⚡ Fun fact: I believe **data can tell a story more profound than words**.
+- 📫 How to reach me: **akshayrathod8179@gmail.com**
+- ⚡ Fun fact: I believe **data can tell a story more profound than words**
 
 <div align="center">
-  <img src="https://media.giphy.com/media/1oF1KAEYvmXB9C0PuQ/giphy.gif" width="300px">
+  <img height="200" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=790b7611hkmk2cn4ycf20v965rmhnfu62d36otzpeurw53bw&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 </div>
 
 ## 🛠️ Skills & Technologies
