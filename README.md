@@ -11,6 +11,8 @@
 
 <br>
 
+
+
 I'm a **Data Scientist** and **AI enthusiast** dedicated to building intelligent systems that bridge the physical and digital worlds. My passion lies in architecting end-to-end solutions, from processing real-time sensor data to deploying sophisticated machine learning models that drive business value and innovation. I believe in the power of data to tell a compelling story and uncover the insights that lead to impactful decisions.
 
 - 🔭 I’m currently building **end-to-end Machine Learning pipelines** and exploring **edge AI solutions for IoT devices**.
@@ -23,7 +25,9 @@ I'm a **Data Scientist** and **AI enthusiast** dedicated to building intelligent
 <hr>
 
 ## 🛠️ My Tech Stack
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Data+Scientist;Always+Learning+New+Things;Building+Cool+Projects&font=Fira%20Code&center=true&width=450&height=50&color=33FF33&vCenter=true&size=22" alt="Typing SVG">
+</div>
 Here's a snapshot of the technologies I work with. I'm always eager to learn and adapt to new tools!
 
 <table>
@@ -142,3 +146,20 @@ I'm always open to connecting with like-minded professionals and enthusiasts. Fe
   <img src="https://komarev.com/ghpvc/?username=Akshay8087&style=flat-square&color=blue" alt="Profile Views Counter" />
   <img src="https://img.shields.io/github/followers/Akshay8087?style=social" alt="GitHub Followers" />
 </p>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pandas,fastapi,react,tailwind,gcp,docker&perline=7&theme=dark" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Akshay8087&theme=dracula&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies">
+</div>
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YourWakaTimeUsername&layout=compact&theme=dracula" alt="WakaTime Stats">
+</div>
+
+
