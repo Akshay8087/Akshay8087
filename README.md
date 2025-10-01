@@ -26,8 +26,9 @@ I'm a **Data Scientist** and **AI enthusiast** dedicated to building intelligent
 
 ## 🛠️ My Tech Stack
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Data+Scientist;Always+Learning+New+Things;Building+Cool+Projects&font=Fira%20Code&center=true&width=450&height=50&color=33FF33&vCenter=true&size=22" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Data+Scientist;Always+Learning+New+Things;Building+Cool+Projects&font=Fira%20Code&center=true&width=550&height=50&color=33FF33&vCenter=true&size=22" alt="Typing SVG">
 </div>
+
 Here's a snapshot of the technologies I work with. I'm always eager to learn and adapt to new tools!
 
 <table>
@@ -35,35 +36,57 @@ Here's a snapshot of the technologies I work with. I'm always eager to learn and
     <td align="center"><strong>Languages & Databases</strong></td>
     <td align="center"><strong>Data Science & ML</strong></td>
     <td align="center"><strong>Visualization & BI</strong></td>
-    <td align="center"><strong>Cloud, IoT & Tools</strong></td>
+    <td align="center"><strong>Cloud, DevOps & Tools</strong></td>
   </tr>
   <tr>
+    <!-- Languages -->
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
       <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
       <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB">
     </td>
+    <!-- Data Science -->
     <td>
       <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
       <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
       <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+      <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
+      <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda">
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
     </td>
+    <!-- Visualization -->
     <td>
       <img src="https://img.shields.io/badge/Matplotlib-FF5733?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib">
       <img src="https://img.shields.io/badge/Seaborn-4E86A1?style=for-the-badge&logoColor=white" alt="Seaborn">
+      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
       <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI">
+      <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
     </td>
+    <!-- Cloud & Tools -->
     <td>
       <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
+      <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
       <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi">
     </td>
   </tr>
 </table>
 
 <hr>
+
 
 ## 🚀 Featured Projects
 
@@ -158,8 +181,5 @@ I'm always open to connecting with like-minded professionals and enthusiasts. Fe
 </div>
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YourWakaTimeUsername&layout=compact&theme=dracula" alt="WakaTime Stats">
-</div>
 
 
