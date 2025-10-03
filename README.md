@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there, I'm Akshay Rathod 👋</h1>
 <h3 align="center">Data Scientist | AI/ML Engineer | IoT Innovator</h3>
-
+ 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Data-Driven+Problem+Solver;Building+Intelligent+Systems+with+AI+%26+IoT;Transforming+Data+into+Actionable+Insights;Let's+Innovate+Together!&font=Fira%20Code&center=true&width=600&height=50&color=00b4ab&vCenter=true&size=22" alt="Typing SVG">
 </div>
