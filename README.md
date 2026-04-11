@@ -159,6 +159,12 @@ akshay = {
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akshay8087&bg_color=0d1117&color=00f5d4&line=7b2ff7&point=ff6b6b&area=true&hide_border=true&area_color=7b2ff730" />
 
+<!-- Snake Animation -->
+<!-- Snake Animation (uses platane/snk which auto-generates, no Action needed) -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<br/>
+
+
 </div>
 
 ---
@@ -211,14 +217,6 @@ MLOps / Docker  ██████████████░░░░░░░ 
 
 <br/><br/>
 
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akshay8087/Akshay8087/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akshay8087/Akshay8087/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Akshay8087/Akshay8087/output/github-snake.svg" />
-</picture>
-
-<br/>
 
 <!-- Footer wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,50:7b2ff7,100:00f5d4&height=120&section=footer&animation=fadeIn" />
