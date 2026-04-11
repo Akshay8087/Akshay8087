@@ -1,16 +1,13 @@
 <div align="center">
 
-<!-- Animated Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,50:7b2ff7,100:ff6b6b&height=200&section=header&text=Akshay%20Rathod&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%2FML%20Engineer%20%7C%20IoT%20Innovator&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&random=false&width=600&height=60&lines=Data-Driven+Problem+Solver+%F0%9F%A7%A0;Building+Intelligent+AI+%2B+IoT+Systems+%F0%9F%A4%96;Turning+Raw+Data+into+Decisions+%F0%9F%93%8A;MLOps+%7C+TinyML+%7C+Edge+AI+Explorer+%F0%9F%9A%80;Let%27s+Innovate+Together!+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Status Badge -->
 <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Opportunities-Pune%2C%20India-00f5d4?style=for-the-badge&labelColor=0d1117&color=00f5d4" />
 &nbsp;
 <img src="https://img.shields.io/badge/Focus-MLOps%20%7C%20TinyML-7b2ff7?style=for-the-badge&labelColor=0d1117" />
@@ -71,19 +68,26 @@ akshay = {
 <div align="center">
 
 <table>
-<tr><td align="center" width="96">
+<tr>
+<td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" /><br>Python
-</td><td align="center" width="96">
+</td>
+<td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" /><br>MySQL
-</td><td align="center" width="96">
+</td>
+<td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" /><br>Docker
-</td><td align="center" width="96">
+</td>
+<td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" /><br>AWS
-</td><td align="center" width="96">
+</td>
+<td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" /><br>GitHub
-</td><td align="center" width="96">
+</td>
+<td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="65" height="65" /><br>Raspberry Pi
-</td></tr>
+</td>
+</tr>
 </table>
 
 </div>
@@ -151,19 +155,23 @@ akshay = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akshay8087&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00f5d4&icon_color=7b2ff7&text_color=e6edf3" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshay8087&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f5d4&ring=7b2ff7&fire=ff6b6b&currStreakLabel=00f5d4&sideLabels=e6edf3&dates=7d8590" />
+<table>
+<tr>
+<td colspan="2" align="center">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Akshay8087&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00f5d4&icon_color=7b2ff7&text_color=e6edf3&border_radius=12" />
+</td>
+</tr>
+<tr>
+<td align="center">
+<img width="100%" src="https://streak-stats.demolab.com?user=Akshay8087&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f5d4&ring=7b2ff7&fire=ff6b6b&currStreakLabel=00f5d4&sideLabels=e6edf3&dates=7d8590&border_radius=12" />
+</td>
+<td align="center">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay8087&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=e6edf3&langs_count=6&border_radius=12" />
+</td>
+</tr>
+</table>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay8087&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=e6edf3&langs_count=8" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akshay8087&theme=tokyonight&utcOffset=5.5" />
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akshay8087&bg_color=0d1117&color=00f5d4&line=7b2ff7&point=ff6b6b&area=true&hide_border=true&area_color=7b2ff730" />
-
-<!-- Snake Animation -->
-<!-- Snake Animation (uses platane/snk which auto-generates, no Action needed) -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-<br/>
-
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akshay8087&bg_color=0d1117&color=00f5d4&line=7b2ff7&point=ff6b6b&area=true&hide_border=true&area_color=7b2ff730&radius=6" />
 
 </div>
 
@@ -172,7 +180,7 @@ akshay = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Akshay8087&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=Akshay8087&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" />
 </div>
 
 ---
@@ -180,14 +188,14 @@ akshay = {
 ## 🎯 Skill Proficiency
 
 ```
-Python          ████████████████████░  95%  ██ Expert
-Machine Learning ██████████████████░░░  88%  ██ Advanced
-Data Visualization ████████████████████░  90%  ██ Advanced
-SQL & Databases  █████████████████░░░░  85%  ██ Advanced
-Deep Learning   ████████████████░░░░░  80%  ██ Proficient
-IoT / Edge AI   ████████████████░░░░░  78%  ██ Proficient
-Cloud (GCP/AWS) ███████████████░░░░░░  75%  ██ Proficient
-MLOps / Docker  ██████████████░░░░░░░  72%  ██ Growing
+Python             ████████████████████░   95%  ▸ Expert
+Machine Learning   ██████████████████░░░   88%  ▸ Advanced
+Data Visualization ████████████████████░   90%  ▸ Advanced
+SQL & Databases    █████████████████░░░░   85%  ▸ Advanced
+Deep Learning      ████████████████░░░░░   80%  ▸ Proficient
+IoT / Edge AI      ████████████████░░░░░   78%  ▸ Proficient
+Cloud (GCP/AWS)    ███████████████░░░░░░   75%  ▸ Proficient
+MLOps / Docker     ██████████████░░░░░░░   72%  ▸ Growing
 ```
 
 ---
@@ -210,15 +218,16 @@ MLOps / Docker  ██████████████░░░░░░░ 
 
 <div align="center">
 
-<!-- Skill Icons Row -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,gcp,docker,fastapi,raspberrypi&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,gcp,docker,fastapi,raspberrypi,git&perline=8&theme=dark" />
 </a>
 
 <br/><br/>
 
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-<!-- Footer wave -->
+<br/>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,50:7b2ff7,100:00f5d4&height=120&section=footer&animation=fadeIn" />
 
 *"Fascinated by how a few lines of code can predict future trends with remarkable accuracy."*
