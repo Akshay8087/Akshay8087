@@ -1,7 +1,7 @@
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,50:7b2ff7,100:ff6b6b&height=200&section=header&text=Akshay%20Rathod&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%2FML%20Engineer%20%7C%20IoT%20Innovator&descAlignY=58&descSize=18&animation=fadeIn" />
-
+ 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&random=false&width=600&height=60&lines=Data-Driven+Problem+Solver+%F0%9F%A7%A0;Building+Intelligent+AI+%2B+IoT+Systems+%F0%9F%A4%96;Turning+Raw+Data+into+Decisions+%F0%9F%93%8A;MLOps+%7C+TinyML+%7C+Edge+AI+Explorer+%F0%9F%9A%80;Let%27s+Innovate+Together!+%E2%9C%A8" alt="Typing SVG" />
 </a>
