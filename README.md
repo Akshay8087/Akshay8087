@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="https://img.shields.io/badge/Open%20to%20Opportunities-Data%20Analyst%20%7C%20BI%20Analyst%20%7C%20ML%20Engineer-00f5d4?style=for-the-badge&labelColor=0d1117" />
+
+</div>
+
+<div align="center">
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,50:7b2ff7,100:ff6b6b&height=200&section=header&text=Akshay%20Rathod&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%2FML%20Engineer%20%7C%20IoT%20Innovator&descAlignY=58&descSize=18&animation=fadeIn" />
  
 <a href="https://git.io/typing-svg">
