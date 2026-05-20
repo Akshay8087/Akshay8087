@@ -1,8 +1,4 @@
-<div align="center">
 
-<img src="https://img.shields.io/badge/Open%20to%20Opportunities-Data%20Analyst%20%7C%20BI%20Analyst%20%7C%20ML%20Engineer-00f5d4?style=for-the-badge&labelColor=0d1117" />
-
-</div>
 
 <div align="center">
 
