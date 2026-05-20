@@ -18,6 +18,19 @@
 
 ---
 
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5d4,50:7b2ff7,100:ff6b6b&height=4&section=header&animation=fadeIn" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=900&color=00F5D4&center=true&vCenter=true&width=900&lines=Entering+Character+Profile...;Loading+Skill+Aura...;Activating+Data+Scientist+Arc..." />
+
+</div>
+
+
+
+
 ## 🧠 `About Me`
 
 ```python
@@ -103,6 +116,18 @@ akshay = {
 
 <br>
 
+## 🧰 Tech Dojo
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=900&color=00F5D4&center=true&vCenter=true&width=900&lines=Selecting+Weapons...;Python+for+Data+Science.;SQL+for+Business+Logic.;Power+BI+for+Decision+Making.;ML+Tools+for+Prediction." />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,mysql,postgres,docker,git,github,gcp,aws,flask,fastapi&perline=7" />
+
+</div>
+
 ### 💻 Languages & Databases
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
@@ -149,8 +174,17 @@ akshay = {
 </div>
 
 
-## 🌟 Featured Projects And 🧠 Featured AI Projects
 
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=160&color=0:00f5d4,45:7b2ff7,100:ff6b6b&text=Project%20Quest%20Board&fontColor=ffffff&fontSize=36&animation=twinkling&section=header" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=900&color=00F5D4&center=true&vCenter=true&width=950&lines=Quest+01%3A+Healthcare+Cost+Intelligence.;Quest+02%3A+Movie+Rating+Prediction.;Mission%3A+Problem+%E2%86%92+Data+%E2%86%92+Model+%E2%86%92+Product+%E2%86%92+Impact." />
+
+</div>
 
 
 <div align="center">
@@ -208,7 +242,22 @@ akshay = {
 
 </div>
 
-## 📊 GitHub Analytics — Growth System
+
+
+
+## ⚡ GitHub Training Arc
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=900&color=00F5D4&center=true&vCenter=true&width=900&lines=Tracking+Consistency...;Building+Project+XP...;Leveling+Up+With+Every+Commit...;From+Learning+to+Shipping." />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Training_Mode-Active-00f5d4?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/XP_Source-Projects%20%2B%20Commits-7b2ff7?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Growth_System-Online-ff6b6b?style=for-the-badge&labelColor=0d1117" />
+
+</div>
 
 <div align="center">
 
@@ -219,10 +268,6 @@ akshay = {
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=900&color=00F5D4&center=true&vCenter=true&width=900&lines=Tracking+Consistency...;Measuring+Growth...;Analyzing+Code+Activity...;Every+Commit+Adds+to+the+Journey." />
 
 <br/><br/>
-
-<img src="https://img.shields.io/badge/Profile-Active-00f5d4?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Mode-Learning%20%2B%20Building-7b2ff7?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Focus-Projects%20%2B%20Consistency-ff6b6b?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
@@ -301,41 +346,80 @@ MLOps / Docker     ██████████████░░░░░░�
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5d4,50:7b2ff7,100:ff6b6b&height=4&section=header&animation=fadeIn" width="100%" />
 
 </div>
-## 🌐 Let's Connect
+## 🌐 Final Portal — Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshay%20Rathod-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/akshay-rathod-537440190)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-akshayrathod8179-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:akshayrathod8179@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Akshay8087-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Akshay8087)
-&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-@akshayrathod-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117)](https://twitter.com/your_twitter_handle)
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5d4,50:7b2ff7,100:ff6b6b&height=4&section=header&animation=fadeIn" width="100%" />
-
-</div>
-<div align="center">
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,gcp,docker,fastapi,raspberrypi,git&perline=8&theme=dark" />
-</a>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=160&color=0:00f5d4,45:7b2ff7,100:ff6b6b&text=Connect%20Portal&fontColor=ffffff&fontSize=38&animation=twinkling&section=header" />
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,50:7b2ff7,100:00f5d4&height=120&section=footer&animation=fadeIn" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=900&color=00F5D4&center=true&vCenter=true&width=950&lines=Open+to+Data%2C+BI%2C+and+AI%2FML+Opportunities.;Let's+build+data-driven+solutions+together.;Available+for+collaboration%2C+projects%2C+and+career+opportunities.;Thanks+for+visiting+my+GitHub+universe." />
 
-*"Fascinated by how a few lines of code can predict future trends with remarkable accuracy."*
+<br/><br/>
 
-**— Akshay Rathod**
+<a href="https://www.linkedin.com/in/akshay-rathod-537440190">
+  <img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+</a>
+&nbsp;
+<a href="mailto:akshayrathod8179@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+</a>
+&nbsp;
+<a href="https://github.com/Akshay8087">
+  <img src="https://img.shields.io/badge/GitHub-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+</a>
+
+</div>
+
+---
+
+## 🧰 Final Tech Signature
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=900&color=FF6B6B&center=true&vCenter=true&width=900&lines=Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;PyTorch+%7C+TensorFlow+%7C+Docker+%7C+Cloud;Analytics+Mindset+%2B+Product+Thinking+%2B+Business+Impact" />
+
+<br/><br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,gcp,docker,fastapi,flask,raspberrypi,git,github,mysql,postgres&perline=6&theme=dark" />
+</a>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+## ✨ Closing Quote
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&pause=1000&color=00F5D4&center=true&vCenter=true&width=950&lines=Every+dataset+has+a+story.;Every+model+has+a+purpose.;Every+dashboard+should+drive+a+decision.;Learning.+Building.+Shipping.+Improving." />
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,50:7b2ff7,100:00f5d4&height=140&section=footer&animation=twinkling" />
+
+<br/>
+
+<h3 align="center">⚡ Data → Models → Dashboards → Decisions ⚡</h3>
+
+<p align="center">
+  <i>"Fascinated by how a few lines of code can predict future trends with remarkable accuracy."</i>
+</p>
+
+<p align="center">
+  <b>— Akshay Rathod</b>
+</p>
 
 </div>
