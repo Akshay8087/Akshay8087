@@ -328,6 +328,7 @@ akshay = {
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6b6b,50:7b2ff7,100:00f5d4&height=4&section=footer&animation=fadeIn" />
 
 </div>
+
 ## 🎯 Skill Proficiency
 
 ```
@@ -346,6 +347,7 @@ MLOps / Docker     ██████████████░░░░░░�
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5d4,50:7b2ff7,100:ff6b6b&height=4&section=header&animation=fadeIn" width="100%" />
 
 </div>
+
 ## 🌐 Final Portal — Let's Connect
 
 <div align="center">
