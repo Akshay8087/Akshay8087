@@ -208,45 +208,79 @@ akshay = {
 
 </div>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics — Growth System
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5d4,50:7b2ff7,100:ff6b6b&height=4&section=header&animation=fadeIn" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=900&color=00F5D4&center=true&vCenter=true&width=900&lines=Tracking+Consistency...;Measuring+Growth...;Analyzing+Code+Activity...;Every+Commit+Adds+to+the+Journey." />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Profile-Active-00f5d4?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Mode-Learning%20%2B%20Building-7b2ff7?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Focus-Projects%20%2B%20Consistency-ff6b6b?style=for-the-badge&labelColor=0d1117" />
+
+</div>
+
+<br/>
 
 <div align="center">
 
 <table>
 <tr>
-<td colspan="2" align="center">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Akshay8087&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00f5d4&icon_color=7b2ff7&text_color=e6edf3&border_radius=12" />
+<td width="50%" align="center">
+
+### ⚡ Contribution Core
+
+<img width="100%" src="https://github-readme-stats-salesp07.vercel.app/api?username=Akshay8087&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&border_radius=15" />
+
 </td>
-</tr>
-<tr>
-<td align="center">
-<img width="100%" src="https://streak-stats.demolab.com?user=Akshay8087&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f5d4&ring=7b2ff7&fire=ff6b6b&currStreakLabel=00f5d4&sideLabels=e6edf3&dates=7d8590&border_radius=12" />
-</td>
-<td align="center">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay8087&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=e6edf3&langs_count=6&border_radius=12" />
+
+<td width="50%" align="center">
+
+### 🔥 Streak Engine
+
+<img width="100%" src="https://streak-stats.demolab.com?user=Akshay8087&theme=tokyonight&hide_border=true&border_radius=15" />
+
 </td>
 </tr>
 </table>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akshay8087&bg_color=0d1117&color=00f5d4&line=7b2ff7&point=ff6b6b&area=true&hide_border=true&area_color=7b2ff730&radius=6" />
-
 </div>
+
+<br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5d4,50:7b2ff7,100:ff6b6b&height=4&section=header&animation=fadeIn" width="100%" />
+### 🧠 Language Intelligence
+
+<img width="60%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Akshay8087&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" />
 
 </div>
 
-## 🏆 GitHub Trophies
+<br/>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Akshay8087&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" />
+
+### 📈 Contribution Activity Map
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akshay8087&theme=tokyo-night&hide_border=true&radius=12&custom_title=Akshay%20Rathod%27s%20GitHub%20Activity%20Map" />
+
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5d4,50:7b2ff7,100:ff6b6b&height=4&section=header&animation=fadeIn" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=900&color=7B2FF7&center=true&vCenter=true&width=850&lines=Code.+Commit.+Improve.+Repeat.;Building+skills+one+project+at+a+time.;From+learning+to+shipping+real+solutions." />
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6b6b,50:7b2ff7,100:00f5d4&height=4&section=footer&animation=fadeIn" />
 
 </div>
 ## 🎯 Skill Proficiency
