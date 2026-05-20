@@ -18,7 +18,7 @@
 
 ---
 
-## 🧠 `whoami`
+## 🧠 `About Me`
 
 ```python
 akshay = {
@@ -135,15 +135,17 @@ akshay = {
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 Featured Projects
 
 <div align="center">
 
-| 🏷️ Project | 📝 Description | 🔧 Stack | 🔗 Link |
-|------------|----------------|----------|---------|
-| 📈 **E-commerce Sales Forecasting** | Predictive model for sales trends — full pipeline from EDA → feature engineering → time-series modeling with actionable business insights | `Python` `Pandas` `Scikit-Learn` `Jupyter` | [View →](https://github.com/Akshay8087) |
-| 🌿 **Smart Agriculture IoT System** | End-to-end IoT solution monitoring soil moisture & environment in real-time, streaming to GCP and triggering precision farming alerts | `Python` `Raspberry Pi` `MQTT` `GCP` | [View →](https://github.com/Akshay8087) |
-| 🍕 **Pizza Sales Performance Dashboard** | Comprehensive chain-wide analytics — SQL + Python data pipeline feeding interactive Power BI dashboards with KPI visualizations | `SQL` `Python` `Power BI` `Excel` | [View →](https://github.com/Akshay8087) |
+| Project | What It Solves | Stack | Link |
+|---|---|---|---|
+| 📡 **TeleChurn Intelligence** | Predicts telecom customer churn and highlights high-risk customer segments for retention strategy | `Python` `Pandas` `Scikit-Learn` `XGBoost` `LightGBM` | [View Repository →](https://github.com/Akshay8087) |
+| 🏥 **MediCost AI** | Predicts medical insurance cost and explains major cost drivers using ML + web app experience | `Python` `Flask` `ML` `Gemini AI` | [View Repository →](https://github.com/Akshay8087) |
+| 📈 **E-commerce Sales Forecasting** | Forecasts sales trends and converts EDA into actionable business recommendations | `Python` `Time Series` `Jupyter` | [View Repository →](https://github.com/Akshay8087) |
+| 🍕 **Pizza Sales Performance Dashboard** | Tracks sales KPIs, category performance, and business trends through BI dashboards | `SQL` `Power BI` `Excel` | [View Repository →](https://github.com/Akshay8087) |
+| 🌿 **Smart Agriculture IoT System** | Monitors soil/environment data and triggers precision farming alerts | `Python` `Raspberry Pi` `MQTT` `GCP` | [View Repository →](https://github.com/Akshay8087) |
 
 </div>
 
