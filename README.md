@@ -35,8 +35,13 @@ akshay = {
     "fun_fact"  : "A few lines of code can predict the future with remarkable accuracy ✨",
 }
 ```
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5d4,50:7b2ff7,100:ff6b6b&height=4&section=header&animation=fadeIn" width="100%" />
+
+</div>
+
+
 
 ## ⚡ Stats at a Glance
 
@@ -61,7 +66,11 @@ akshay = {
 
 </div>
 
----
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5d4,50:7b2ff7,100:ff6b6b&height=4&section=header&animation=fadeIn" width="100%" />
+
+</div>
 
 ## 🛠️ Tech Arsenal
 
@@ -133,10 +142,52 @@ akshay = {
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23A22846.svg?style=flat-square&logo=raspberry-pi&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-%23660066.svg?style=flat-square&logo=eclipse-mosquitto&logoColor=white)
 
----
+<div align="center">
 
-## 🌟 Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5d4,50:7b2ff7,100:ff6b6b&height=4&section=header&animation=fadeIn" width="100%" />
 
+</div>
+
+
+## 🌟 Featured Projects And 🧠 Featured AI Projects
+
+
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🏥 MediCost AI
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=00F5D4&center=true&vCenter=true&width=350&lines=Medical+Cost+Prediction;Regression+ML+Model;Flask+AI+Web+App;Business+Cost+Insights" />
+
+<br/>
+
+<a href="https://github.com/Akshay8087/MediCost-AI-Medical-Insurance-Cost-Intelligence">
+<img src="https://img.shields.io/badge/View_Project-00f5d4?style=for-the-badge&logo=github&logoColor=black" />
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 🎬 Movie Rating Predictor
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=FF6B6B&center=true&vCenter=true&width=350&lines=MultiModel+ML+System;Movie+Rating+Prediction;Model+Comparison;End-to-End+ML+Pipeline" />
+
+<br/>
+
+<a href="https://github.com/Akshay8087/MultiModel-Movie-Rating-Predictor">
+<img src="https://img.shields.io/badge/View_Project-ff6b6b?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
 <div align="center">
 
 | Project | What It Solves | Stack | Link |
@@ -151,7 +202,11 @@ akshay = {
 
 > 🔍 Explore all projects → **[github.com/Akshay8087?tab=repositories](https://github.com/Akshay8087?tab=repositories)**
 
----
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5d4,50:7b2ff7,100:ff6b6b&height=4&section=header&animation=fadeIn" width="100%" />
+
+</div>
 
 ## 📊 GitHub Analytics
 
@@ -177,7 +232,11 @@ akshay = {
 
 </div>
 
----
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5d4,50:7b2ff7,100:ff6b6b&height=4&section=header&animation=fadeIn" width="100%" />
+
+</div>
 
 ## 🏆 GitHub Trophies
 
@@ -185,8 +244,11 @@ akshay = {
 <img src="https://github-profile-trophy.vercel.app/?username=Akshay8087&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" />
 </div>
 
----
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5d4,50:7b2ff7,100:ff6b6b&height=4&section=header&animation=fadeIn" width="100%" />
+
+</div>
 ## 🎯 Skill Proficiency
 
 ```
@@ -200,8 +262,11 @@ Cloud (GCP/AWS)    ███████████████░░░░░�
 MLOps / Docker     ██████████████░░░░░░░   72%  ▸ Growing
 ```
 
----
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5d4,50:7b2ff7,100:ff6b6b&height=4&section=header&animation=fadeIn" width="100%" />
+
+</div>
 ## 🌐 Let's Connect
 
 <div align="center">
@@ -216,8 +281,11 @@ MLOps / Docker     ██████████████░░░░░░�
 
 </div>
 
----
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5d4,50:7b2ff7,100:ff6b6b&height=4&section=header&animation=fadeIn" width="100%" />
+
+</div>
 <div align="center">
 
 <a href="https://skillicons.dev">
