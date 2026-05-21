@@ -1,0 +1,303 @@
+<svg width="1200" height="620" viewBox="0 0 1200 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="620">
+      <stop stop-color="#F8FAFC"/>
+      <stop offset="0.5" stop-color="#EEF2F7"/>
+      <stop offset="1" stop-color="#F8FAFC"/>
+    </linearGradient>
+
+    <linearGradient id="leftBrain" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#67E8F9"/>
+      <stop offset="1" stop-color="#0891B2"/>
+    </linearGradient>
+
+    <linearGradient id="rightBrain" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FDBA74"/>
+      <stop offset="1" stop-color="#F97316"/>
+    </linearGradient>
+
+    <linearGradient id="darkText" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#164E63"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+
+    <filter id="softShadow" x="-25%" y="-25%" width="150%" height="150%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#0F172A" flood-opacity="0.12"/>
+    </filter>
+
+    <filter id="brainGlowLeft" x="-70%" y="-70%" width="240%" height="240%">
+      <feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#22D3EE" flood-opacity="0.65"/>
+    </filter>
+
+    <filter id="brainGlowRight" x="-70%" y="-70%" width="240%" height="240%">
+      <feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#FB923C" flood-opacity="0.65"/>
+    </filter>
+
+    <style>
+      .topSmall {
+        font-family: Segoe UI, Inter, Arial, sans-serif;
+        font-size: 15px;
+        font-weight: 900;
+        letter-spacing: 4px;
+        fill: #164E63;
+      }
+
+      .mainTitle {
+        font-family: Segoe UI, Inter, Arial, sans-serif;
+        font-size: 54px;
+        font-weight: 950;
+        letter-spacing: 4px;
+      }
+
+      .amp {
+        font-family: Segoe UI, Inter, Arial, sans-serif;
+        font-size: 50px;
+        font-weight: 950;
+        fill: #0E7490;
+      }
+
+      .subTitle {
+        font-family: Segoe UI, Inter, Arial, sans-serif;
+        font-size: 17px;
+        font-weight: 800;
+        letter-spacing: 2px;
+        fill: #164E63;
+      }
+
+      .sideLabel {
+        font-family: Segoe UI, Inter, Arial, sans-serif;
+        font-size: 13px;
+        font-weight: 900;
+        letter-spacing: 1.5px;
+      }
+
+      .skill {
+        font-family: Segoe UI, Inter, Arial, sans-serif;
+        font-size: 15px;
+        font-weight: 900;
+        fill: #334155;
+      }
+
+      .skillSmall {
+        font-family: Segoe UI, Inter, Arial, sans-serif;
+        font-size: 12px;
+        font-weight: 700;
+        fill: #64748B;
+      }
+
+      .iconText {
+        font-family: Segoe UI, Inter, Arial, sans-serif;
+        font-size: 15px;
+        font-weight: 950;
+      }
+
+      .float1 {
+        animation: float1 5s ease-in-out infinite;
+      }
+
+      .float2 {
+        animation: float2 6.2s ease-in-out infinite;
+      }
+
+      @keyframes float1 {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-9px); }
+      }
+
+      @keyframes float2 {
+        0%, 100% { transform: translateY(-7px); }
+        50% { transform: translateY(7px); }
+      }
+
+      .dashLeft {
+        stroke-dasharray: 8 10;
+        animation: dashLeft 2.5s linear infinite;
+      }
+
+      @keyframes dashLeft {
+        from { stroke-dashoffset: 100; }
+        to { stroke-dashoffset: 0; }
+      }
+
+      .dashRight {
+        stroke-dasharray: 8 10;
+        animation: dashRight 2.5s linear infinite;
+      }
+
+      @keyframes dashRight {
+        from { stroke-dashoffset: 0; }
+        to { stroke-dashoffset: 100; }
+      }
+
+      .pulse {
+        animation: pulse 2.4s ease-in-out infinite;
+        transform-origin: center;
+      }
+
+      @keyframes pulse {
+        0%, 100% { opacity: .45; transform: scale(1); }
+        50% { opacity: 1; transform: scale(1.18); }
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="620" rx="30" fill="url(#bg)"/>
+
+  <!-- Subtle dotted pattern -->
+  <g opacity="0.18">
+    <circle cx="85" cy="80" r="2" fill="#94A3B8"/>
+    <circle cx="155" cy="125" r="2" fill="#94A3B8"/>
+    <circle cx="1030" cy="95" r="2" fill="#94A3B8"/>
+    <circle cx="1110" cy="155" r="2" fill="#94A3B8"/>
+    <circle cx="150" cy="515" r="2" fill="#94A3B8"/>
+    <circle cx="1055" cy="500" r="2" fill="#94A3B8"/>
+  </g>
+
+  <!-- Header -->
+  <text x="600" y="35" text-anchor="middle" class="topSmall">TECHNICAL SKILLS MAP</text>
+
+  <text x="405" y="92" text-anchor="middle" class="mainTitle" fill="#0E7490">DATA</text>
+  <text x="600" y="90" text-anchor="middle" class="amp">&amp;</text>
+  <text x="805" y="92" text-anchor="middle" class="mainTitle" fill="#F97316">AI</text>
+
+  <text x="600" y="130" text-anchor="middle" class="subTitle">
+    ANALYTICS FOUNDATION × MACHINE LEARNING ENGINEERING
+  </text>
+
+  <!-- Brain Center -->
+  <g filter="url(#softShadow)">
+    <!-- Left brain silhouette -->
+    <path d="M575 185
+      C515 150 442 170 420 230
+      C378 235 350 270 356 312
+      C320 345 330 405 376 428
+      C375 480 425 516 477 500
+      C512 535 568 515 585 468
+      C595 432 592 390 590 350
+      C587 300 592 235 575 185Z"
+      fill="none" stroke="url(#leftBrain)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" filter="url(#brainGlowLeft)"/>
+
+    <!-- Right brain silhouette -->
+    <path d="M625 185
+      C685 150 758 170 780 230
+      C822 235 850 270 844 312
+      C880 345 870 405 824 428
+      C825 480 775 516 723 500
+      C688 535 632 515 615 468
+      C605 432 608 390 610 350
+      C613 300 608 235 625 185Z"
+      fill="none" stroke="url(#rightBrain)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" filter="url(#brainGlowRight)"/>
+
+    <!-- Brain inner lines left -->
+    <path d="M548 210C520 205 500 220 496 250C470 248 448 265 450 292C425 305 422 340 448 354C438 385 456 415 490 413C500 448 535 455 560 432"
+      stroke="#67E8F9" stroke-width="7" stroke-linecap="round" fill="none"/>
+    <path d="M555 265C525 265 510 288 518 315C485 322 478 360 505 378C493 405 512 432 542 427"
+      stroke="#22D3EE" stroke-width="7" stroke-linecap="round" fill="none"/>
+
+    <!-- Brain inner lines right -->
+    <path d="M652 210C680 205 700 220 704 250C730 248 752 265 750 292C775 305 778 340 752 354C762 385 744 415 710 413C700 448 665 455 640 432"
+      stroke="#FDBA74" stroke-width="7" stroke-linecap="round" fill="none"/>
+    <path d="M645 265C675 265 690 288 682 315C715 322 722 360 695 378C707 405 688 432 658 427"
+      stroke="#FB923C" stroke-width="7" stroke-linecap="round" fill="none"/>
+
+    <!-- Center split -->
+    <path d="M600 180V505" stroke="#CBD5E1" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <!-- Left category label -->
+  <text x="155" y="175" class="sideLabel" fill="#0E7490">DATA ANALYTICS &amp; BI</text>
+  <path d="M150 185H380" stroke="#0E7490" stroke-width="3"/>
+  <path d="M380 185L430 235" stroke="#0E7490" stroke-width="3" class="dashLeft"/>
+
+  <!-- Right category label -->
+  <text x="855" y="175" class="sideLabel" fill="#F97316">AI / ML ENGINEERING</text>
+  <path d="M850 185H1080" stroke="#F97316" stroke-width="3"/>
+  <path d="M850 185L775 235" stroke="#F97316" stroke-width="3" class="dashRight"/>
+
+  <!-- LEFT SKILLS -->
+
+  <!-- Python -->
+  <g class="float1">
+    <rect x="72" y="210" width="64" height="52" rx="8" fill="white" stroke="#0E7490" stroke-width="3"/>
+    <text x="104" y="243" text-anchor="middle" class="iconText" fill="#0E7490">Py</text>
+    <path d="M136 235H365" stroke="#0E7490" stroke-width="3"/>
+    <circle cx="365" cy="235" r="6" fill="#0E7490" class="pulse"/>
+    <text x="72" y="292" class="skill">Python Programming</text>
+    <text x="72" y="313" class="skillSmall">Pandas • NumPy • Data Cleaning</text>
+  </g>
+
+  <!-- SQL -->
+  <g class="float2">
+    <rect x="72" y="330" width="64" height="52" rx="8" fill="white" stroke="#0E7490" stroke-width="3"/>
+    <ellipse cx="104" cy="346" rx="20" ry="7" stroke="#0E7490" stroke-width="3"/>
+    <path d="M84 346V365C84 370 93 374 104 374C115 374 124 370 124 365V346" stroke="#0E7490" stroke-width="3"/>
+    <path d="M136 355H385" stroke="#0E7490" stroke-width="3"/>
+    <circle cx="385" cy="355" r="6" fill="#0E7490" class="pulse"/>
+    <text x="72" y="412" class="skill">SQL Analytics</text>
+    <text x="72" y="433" class="skillSmall">Joins • CTEs • KPI Queries</text>
+  </g>
+
+  <!-- Power BI -->
+  <g class="float1">
+    <rect x="72" y="455" width="64" height="52" rx="8" fill="white" stroke="#0E7490" stroke-width="3"/>
+    <rect x="93" y="480" width="7" height="17" rx="2" fill="#0E7490"/>
+    <rect x="104" y="468" width="7" height="29" rx="2" fill="#22D3EE"/>
+    <rect x="115" y="460" width="7" height="37" rx="2" fill="#67E8F9"/>
+    <path d="M136 480H400" stroke="#0E7490" stroke-width="3"/>
+    <circle cx="400" cy="480" r="6" fill="#0E7490" class="pulse"/>
+    <text x="72" y="540" class="skill">Power BI Reporting</text>
+    <text x="72" y="561" class="skillSmall">DAX • Power Query • Dashboards</text>
+  </g>
+
+  <!-- RIGHT SKILLS -->
+
+  <!-- Machine Learning -->
+  <g class="float2">
+    <rect x="1064" y="210" width="64" height="52" rx="8" fill="white" stroke="#F97316" stroke-width="3"/>
+    <circle cx="1084" cy="230" r="5" fill="#F97316"/>
+    <circle cx="1104" cy="228" r="5" fill="#F97316"/>
+    <circle cx="1110" cy="248" r="5" fill="#F97316"/>
+    <circle cx="1088" cy="252" r="5" fill="#F97316"/>
+    <path d="M1084 230L1104 228L1110 248L1088 252L1084 230L1110 248" stroke="#F97316" stroke-width="2"/>
+    <path d="M1064 235H835" stroke="#F97316" stroke-width="3"/>
+    <circle cx="835" cy="235" r="6" fill="#F97316" class="pulse"/>
+    <text x="930" y="292" class="skill">Machine Learning</text>
+    <text x="930" y="313" class="skillSmall">XGBoost • Random Forest • LightGBM</text>
+  </g>
+
+  <!-- PyTorch -->
+  <g class="float1">
+    <rect x="1064" y="330" width="64" height="52" rx="8" fill="white" stroke="#F97316" stroke-width="3"/>
+    <path d="M1096 338C1084 350 1076 360 1076 370C1076 381 1085 388 1096 388C1107 388 1116 381 1116 370C1116 360 1108 350 1096 338Z" stroke="#F97316" stroke-width="4"/>
+    <circle cx="1107" cy="354" r="3" fill="#F97316"/>
+    <path d="M1064 355H815" stroke="#F97316" stroke-width="3"/>
+    <circle cx="815" cy="355" r="6" fill="#F97316" class="pulse"/>
+    <text x="930" y="412" class="skill">PyTorch</text>
+    <text x="930" y="433" class="skillSmall">Neural Networks • Deep Learning</text>
+  </g>
+
+  <!-- MLOps -->
+  <g class="float2">
+    <rect x="1064" y="455" width="64" height="52" rx="8" fill="white" stroke="#F97316" stroke-width="3"/>
+    <path d="M1078 481H1114M1096 463V499" stroke="#F97316" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="1078" cy="481" r="5" fill="#F97316"/>
+    <circle cx="1114" cy="481" r="5" fill="#F97316"/>
+    <circle cx="1096" cy="463" r="5" fill="#F97316"/>
+    <circle cx="1096" cy="499" r="5" fill="#F97316"/>
+    <path d="M1064 480H800" stroke="#F97316" stroke-width="3"/>
+    <circle cx="800" cy="480" r="6" fill="#F97316" class="pulse"/>
+    <text x="930" y="540" class="skill">MLOps &amp; Deployment</text>
+    <text x="930" y="561" class="skillSmall">Git • Docker • Model Serving</text>
+  </g>
+
+  <!-- Bottom professional label -->
+  <g filter="url(#softShadow)">
+    <rect x="355" y="555" width="490" height="42" rx="21" fill="white" stroke="#CBD5E1"/>
+    <text x="600" y="582" text-anchor="middle" font-family="Segoe UI, Arial" font-size="15" font-weight="900" fill="#334155">
+      Python · SQL · Power BI · Machine Learning · PyTorch · MLOps
+    </text>
+  </g>
+
+</svg>
