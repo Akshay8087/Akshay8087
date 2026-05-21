@@ -1,0 +1,239 @@
+<svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="520">
+      <stop stop-color="#120B05"/>
+      <stop offset="0.45" stop-color="#1A1008"/>
+      <stop offset="1" stop-color="#080503"/>
+    </linearGradient>
+
+    <linearGradient id="brownLight" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FDE68A"/>
+      <stop offset="0.4" stop-color="#D97706"/>
+      <stop offset="1" stop-color="#92400E"/>
+    </linearGradient>
+
+    <linearGradient id="softBrown" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#451A03"/>
+      <stop offset="1" stop-color="#1C0A02"/>
+    </linearGradient>
+
+    <filter id="brownGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#F59E0B" flood-opacity="0.9"/>
+      <feDropShadow dx="0" dy="0" stdDeviation="18" flood-color="#92400E" flood-opacity="0.75"/>
+    </filter>
+
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="22" stdDeviation="24" flood-color="#000000" flood-opacity="0.55"/>
+    </filter>
+
+    <style>
+      .title {
+        font-family: Segoe UI, Inter, Arial, sans-serif;
+        font-size: 42px;
+        font-weight: 900;
+        fill: #FFF7ED;
+        letter-spacing: -1px;
+      }
+
+      .subtitle {
+        font-family: Segoe UI, Inter, Arial, sans-serif;
+        font-size: 16px;
+        font-weight: 600;
+        fill: #D6D3D1;
+      }
+
+      .skillName {
+        font-family: Segoe UI, Inter, Arial, sans-serif;
+        font-size: 17px;
+        font-weight: 900;
+        fill: #FFF7ED;
+      }
+
+      .skillSub {
+        font-family: Segoe UI, Inter, Arial, sans-serif;
+        font-size: 12px;
+        font-weight: 700;
+        fill: #C7B299;
+      }
+
+      .tag {
+        font-family: Segoe UI, Inter, Arial, sans-serif;
+        font-size: 12px;
+        font-weight: 900;
+        letter-spacing: 1.4px;
+        fill: #FCD34D;
+      }
+
+      .float1 {
+        animation: float1 5s ease-in-out infinite;
+      }
+
+      .float2 {
+        animation: float2 6.2s ease-in-out infinite;
+      }
+
+      .float3 {
+        animation: float3 7.4s ease-in-out infinite;
+      }
+
+      @keyframes float1 {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-10px); }
+      }
+
+      @keyframes float2 {
+        0%, 100% { transform: translateY(-7px); }
+        50% { transform: translateY(7px); }
+      }
+
+      @keyframes float3 {
+        0%, 100% { transform: translateY(6px); }
+        50% { transform: translateY(-9px); }
+      }
+
+      .pulse {
+        animation: pulse 2.4s ease-in-out infinite;
+        transform-origin: center;
+      }
+
+      @keyframes pulse {
+        0%, 100% { opacity: .45; transform: scale(1); }
+        50% { opacity: 1; transform: scale(1.18); }
+      }
+
+      .dash {
+        stroke-dasharray: 10 14;
+        animation: dash 2.5s linear infinite;
+      }
+
+      @keyframes dash {
+        from { stroke-dashoffset: 140; }
+        to { stroke-dashoffset: 0; }
+      }
+
+      .shine {
+        animation: shine 3.2s ease-in-out infinite;
+      }
+
+      @keyframes shine {
+        0%, 100% { opacity: .35; }
+        50% { opacity: 1; }
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="520" rx="34" fill="url(#bg)"/>
+
+  <!-- Brown neon top line -->
+  <rect x="0" y="0" width="1200" height="8" fill="url(#brownLight)"/>
+
+  <!-- Glow blobs -->
+  <circle cx="230" cy="120" r="160" fill="#92400E" opacity="0.16"/>
+  <circle cx="930" cy="130" r="190" fill="#D97706" opacity="0.13"/>
+  <circle cx="610" cy="430" r="170" fill="#F59E0B" opacity="0.08"/>
+
+  <!-- Subtle grid -->
+  <g opacity="0.09">
+    <path d="M0 90H1200M0 180H1200M0 270H1200M0 360H1200M0 450H1200" stroke="#FED7AA"/>
+    <path d="M100 0V520M220 0V520M340 0V520M460 0V520M580 0V520M700 0V520M820 0V520M940 0V520M1060 0V520" stroke="#FED7AA"/>
+  </g>
+
+  <!-- Header -->
+  <g filter="url(#shadow)">
+    <rect x="80" y="48" width="360" height="42" rx="21" fill="#1C0A02" stroke="#78350F"/>
+    <circle cx="112" cy="69" r="7" fill="#F59E0B" class="pulse" filter="url(#brownGlow)"/>
+    <text x="134" y="75" class="tag">PROFESSIONAL SKILL STACK</text>
+  </g>
+
+  <text x="80" y="148" class="title">Technical Skills</text>
+  <text x="82" y="180" class="subtitle">A clean brown-neon icon system for Data, Analytics, Machine Learning, BI, and Deployment.</text>
+
+  <!-- Connector lines -->
+  <path d="M185 305 C330 250 460 250 600 305 C740 360 870 360 1015 305" stroke="#D97706" stroke-width="3" fill="none" class="dash" opacity="0.55"/>
+  <path d="M185 385 C330 440 460 440 600 385 C740 330 870 330 1015 385" stroke="#F59E0B" stroke-width="3" fill="none" class="dash" opacity="0.35"/>
+
+  <!-- Row 1 -->
+
+  <!-- Python -->
+  <g class="float1" filter="url(#shadow)">
+    <rect x="100" y="230" width="150" height="125" rx="28" fill="url(#softBrown)" stroke="#78350F"/>
+    <circle cx="175" cy="285" r="34" fill="#2A1205" stroke="#F59E0B" stroke-width="2" filter="url(#brownGlow)"/>
+    <text x="151" y="297" font-family="Segoe UI, Arial" font-size="27" font-weight="950" fill="#FDE68A">Py</text>
+    <text x="128" y="390" class="skillName">Python</text>
+    <text x="128" y="412" class="skillSub">Data Analysis</text>
+  </g>
+
+  <!-- SQL -->
+  <g class="float2" filter="url(#shadow)">
+    <rect x="280" y="230" width="150" height="125" rx="28" fill="url(#softBrown)" stroke="#78350F"/>
+    <circle cx="355" cy="285" r="34" fill="#2A1205" stroke="#F59E0B" stroke-width="2" filter="url(#brownGlow)"/>
+    <ellipse cx="355" cy="272" rx="24" ry="9" stroke="#FDE68A" stroke-width="4"/>
+    <path d="M331 272V296C331 301 342 306 355 306C368 306 379 301 379 296V272" stroke="#FDE68A" stroke-width="4"/>
+    <text x="330" y="390" class="skillName">SQL</text>
+    <text x="314" y="412" class="skillSub">Data Queries</text>
+  </g>
+
+  <!-- Power BI -->
+  <g class="float3" filter="url(#shadow)">
+    <rect x="460" y="230" width="150" height="125" rx="28" fill="url(#softBrown)" stroke="#78350F"/>
+    <circle cx="535" cy="285" r="34" fill="#2A1205" stroke="#F59E0B" stroke-width="2" filter="url(#brownGlow)"/>
+    <rect x="514" y="292" width="9" height="18" rx="3" fill="#FDE68A"/>
+    <rect x="529" y="280" width="9" height="30" rx="3" fill="#F59E0B"/>
+    <rect x="544" y="266" width="9" height="44" rx="3" fill="#D97706"/>
+    <text x="496" y="390" class="skillName">Power BI</text>
+    <text x="491" y="412" class="skillSub">Dashboards</text>
+  </g>
+
+  <!-- Machine Learning -->
+  <g class="float1" filter="url(#shadow)">
+    <rect x="640" y="230" width="150" height="125" rx="28" fill="url(#softBrown)" stroke="#78350F"/>
+    <circle cx="715" cy="285" r="34" fill="#2A1205" stroke="#F59E0B" stroke-width="2" filter="url(#brownGlow)"/>
+    <circle cx="700" cy="275" r="5" fill="#FDE68A"/>
+    <circle cx="727" cy="271" r="5" fill="#FDE68A"/>
+    <circle cx="735" cy="298" r="5" fill="#FDE68A"/>
+    <circle cx="706" cy="303" r="5" fill="#FDE68A"/>
+    <path d="M700 275L727 271L735 298L706 303L700 275L735 298" stroke="#F59E0B" stroke-width="3"/>
+    <text x="663" y="390" class="skillName">Machine Learning</text>
+    <text x="676" y="412" class="skillSub">Predictive Models</text>
+  </g>
+
+  <!-- PyTorch -->
+  <g class="float2" filter="url(#shadow)">
+    <rect x="820" y="230" width="150" height="125" rx="28" fill="url(#softBrown)" stroke="#78350F"/>
+    <circle cx="895" cy="285" r="34" fill="#2A1205" stroke="#F59E0B" stroke-width="2" filter="url(#brownGlow)"/>
+    <path d="M895 257C882 270 872 282 872 295C872 310 883 319 895 319C908 319 919 310 919 295C919 283 909 270 895 257Z" stroke="#FDE68A" stroke-width="5"/>
+    <circle cx="908" cy="276" r="4" fill="#FDE68A"/>
+    <text x="860" y="390" class="skillName">PyTorch</text>
+    <text x="850" y="412" class="skillSub">Deep Learning</text>
+  </g>
+
+  <!-- MLOps -->
+  <g class="float3" filter="url(#shadow)">
+    <rect x="1000" y="230" width="150" height="125" rx="28" fill="url(#softBrown)" stroke="#78350F"/>
+    <circle cx="1075" cy="285" r="34" fill="#2A1205" stroke="#F59E0B" stroke-width="2" filter="url(#brownGlow)"/>
+    <path d="M1055 285H1095M1075 265V305" stroke="#FDE68A" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="1055" cy="285" r="6" fill="#F59E0B"/>
+    <circle cx="1095" cy="285" r="6" fill="#F59E0B"/>
+    <circle cx="1075" cy="265" r="6" fill="#F59E0B"/>
+    <circle cx="1075" cy="305" r="6" fill="#F59E0B"/>
+    <text x="1043" y="390" class="skillName">MLOps</text>
+    <text x="1028" y="412" class="skillSub">Deployment</text>
+  </g>
+
+  <!-- Bottom professional mini badges -->
+  <g filter="url(#shadow)">
+    <rect x="260" y="455" width="680" height="44" rx="22" fill="#1C0A02" stroke="#78350F"/>
+    <text x="300" y="483" font-family="Segoe UI, Arial" font-size="15" font-weight="900" fill="#FFF7ED">
+      Python · SQL · Power BI · Machine Learning · PyTorch · MLOps · Analytics · Dashboards
+    </text>
+  </g>
+
+  <!-- Small shine particles -->
+  <circle cx="116" cy="214" r="3" fill="#FDE68A" class="shine"/>
+  <circle cx="435" cy="206" r="3" fill="#F59E0B" class="shine"/>
+  <circle cx="785" cy="205" r="3" fill="#FDE68A" class="shine"/>
+  <circle cx="1110" cy="210" r="3" fill="#F59E0B" class="shine"/>
+
+</svg>
