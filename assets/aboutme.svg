@@ -1,0 +1,292 @@
+<svg width="1200" height="650" viewBox="0 0 1200 650" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="darkOverlay" x1="0" y1="0" x2="1200" y2="650">
+      <stop stop-color="#120A2A" stop-opacity="0.82"/>
+      <stop offset="0.48" stop-color="#2E1B4D" stop-opacity="0.50"/>
+      <stop offset="1" stop-color="#0B1020" stop-opacity="0.85"/>
+    </linearGradient>
+
+    <linearGradient id="bottomFade" x1="0" y1="350" x2="0" y2="650">
+      <stop stop-color="#000000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#020617" stop-opacity="0.9"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#F97316"/>
+      <stop offset="0.45" stop-color="#A855F7"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FFFFFF" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.06"/>
+    </linearGradient>
+
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="22" stdDeviation="28" flood-color="#000000" flood-opacity="0.45"/>
+    </filter>
+
+    <filter id="glow" x="-70%" y="-70%" width="240%" height="240%">
+      <feDropShadow dx="0" dy="0" stdDeviation="10" flood-color="#A855F7" flood-opacity="0.8"/>
+    </filter>
+
+    <clipPath id="heroClip">
+      <rect x="42" y="38" width="1116" height="574" rx="22"/>
+    </clipPath>
+
+    <style>
+      .nav {
+        font-family: Inter, Segoe UI, Arial, sans-serif;
+        font-size: 12px;
+        font-weight: 800;
+        fill: #E5E7EB;
+        letter-spacing: .4px;
+      }
+
+      .brand {
+        font-family: Inter, Segoe UI, Arial, sans-serif;
+        font-size: 16px;
+        font-weight: 950;
+        fill: #FFFFFF;
+      }
+
+      .small {
+        font-family: Inter, Segoe UI, Arial, sans-serif;
+        font-size: 12px;
+        font-weight: 700;
+        fill: #CBD5E1;
+      }
+
+      .tiny {
+        font-family: Inter, Segoe UI, Arial, sans-serif;
+        font-size: 10px;
+        font-weight: 900;
+        letter-spacing: 1.6px;
+        fill: #CBD5E1;
+      }
+
+      .heroText {
+        font-family: Impact, Arial Black, Segoe UI, sans-serif;
+        font-size: 138px;
+        font-weight: 950;
+        letter-spacing: -4px;
+        fill: #FFFFFF;
+      }
+
+      .name {
+        font-family: Inter, Segoe UI, Arial, sans-serif;
+        font-size: 34px;
+        font-weight: 950;
+        fill: #FFFFFF;
+        letter-spacing: -0.8px;
+      }
+
+      .role {
+        font-family: Inter, Segoe UI, Arial, sans-serif;
+        font-size: 14px;
+        font-weight: 800;
+        fill: #E5E7EB;
+        letter-spacing: 1px;
+      }
+
+      .body {
+        font-family: Inter, Segoe UI, Arial, sans-serif;
+        font-size: 13px;
+        font-weight: 600;
+        fill: #CBD5E1;
+      }
+
+      .button {
+        font-family: Inter, Segoe UI, Arial, sans-serif;
+        font-size: 12px;
+        font-weight: 900;
+        fill: #111827;
+      }
+
+      .metric {
+        font-family: Inter, Segoe UI, Arial, sans-serif;
+        font-size: 22px;
+        font-weight: 950;
+        fill: #FFFFFF;
+      }
+
+      .metricLabel {
+        font-family: Inter, Segoe UI, Arial, sans-serif;
+        font-size: 10px;
+        font-weight: 900;
+        fill: #CBD5E1;
+        letter-spacing: 1.2px;
+      }
+
+      .float {
+        animation: float 5.5s ease-in-out infinite;
+      }
+
+      @keyframes float {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-12px); }
+      }
+
+      .pulse {
+        animation: pulse 2.2s ease-in-out infinite;
+        transform-origin: center;
+      }
+
+      @keyframes pulse {
+        0%, 100% { opacity: .6; transform: scale(1); }
+        50% { opacity: 1; transform: scale(1.12); }
+      }
+
+      .slide {
+        animation: slide 2.5s ease-in-out infinite;
+      }
+
+      @keyframes slide {
+        0%, 100% { transform: translateX(0px); }
+        50% { transform: translateX(8px); }
+      }
+
+      .progress {
+        stroke-dasharray: 520;
+        stroke-dashoffset: 520;
+        animation: progress 10s linear infinite;
+      }
+
+      @keyframes progress {
+        from { stroke-dashoffset: 520; }
+        to { stroke-dashoffset: 0; }
+      }
+
+      .fadeText {
+        animation: fadeText 4s ease-in-out infinite;
+      }
+
+      @keyframes fadeText {
+        0%, 100% { opacity: .6; }
+        50% { opacity: 1; }
+      }
+    </style>
+  </defs>
+
+  <!-- Outside background -->
+  <rect width="1200" height="650" fill="#D8D3D0"/>
+
+  <!-- Main hero card -->
+  <g filter="url(#shadow)">
+    <rect x="42" y="38" width="1116" height="574" rx="22" fill="#020617"/>
+  </g>
+
+  <g clip-path="url(#heroClip)">
+
+    <!-- YOUR IMAGE BACKGROUND -->
+    <!-- Save the uploaded screenshot/image as: assets/visit-bg.png -->
+    <image href="assets/visit-bg.png" x="42" y="38" width="1116" height="574" preserveAspectRatio="xMidYMid slice"/>
+
+    <!-- cinematic overlays -->
+    <rect x="42" y="38" width="1116" height="574" fill="url(#darkOverlay)"/>
+    <rect x="42" y="320" width="1116" height="292" fill="url(#bottomFade)"/>
+
+    <!-- soft gradient light -->
+    <circle cx="830" cy="120" r="270" fill="#F97316" opacity="0.18"/>
+    <circle cx="520" cy="165" r="260" fill="#A855F7" opacity="0.18"/>
+    <circle cx="1020" cy="390" r="220" fill="#38BDF8" opacity="0.10"/>
+
+    <!-- top nav -->
+    <text x="78" y="90" class="brand">AkshayOS</text>
+
+    <text x="470" y="90" text-anchor="middle" class="nav">Community</text>
+    <text x="575" y="90" text-anchor="middle" class="nav">About</text>
+    <text x="672" y="90" text-anchor="middle" class="nav">Projects</text>
+    <text x="770" y="90" text-anchor="middle" class="nav">Contact</text>
+
+    <rect x="1015" y="65" width="118" height="38" rx="2" fill="none" stroke="#FFFFFF" stroke-opacity="0.45"/>
+    <text x="1074" y="89" text-anchor="middle" class="nav">Resume</text>
+
+    <!-- journey line -->
+    <g opacity="0.9">
+      <rect x="78" y="172" width="4" height="22" rx="2" fill="#CBD5E1"/>
+      <rect x="86" y="166" width="4" height="28" rx="2" fill="#CBD5E1" opacity="0.75"/>
+      <rect x="94" y="158" width="4" height="36" rx="2" fill="#CBD5E1" opacity="0.55"/>
+      <text x="118" y="185" class="small">Building intelligent systems from raw data to real business impact</text>
+    </g>
+
+    <!-- huge editorial word -->
+    <text x="70" y="335" class="heroText" opacity="0.95">ABOUT</text>
+    <text x="650" y="335" class="heroText" opacity="0.95">ME</text>
+
+    <!-- central play button -->
+    <g class="pulse" filter="url(#glow)">
+      <circle cx="600" cy="310" r="58" fill="#FFFFFF" fill-opacity="0.22"/>
+      <circle cx="600" cy="310" r="42" fill="#FFFFFF" fill-opacity="0.72"/>
+      <path d="M590 286L628 310L590 334V286Z" fill="#7C3AED"/>
+    </g>
+
+    <!-- left about copy -->
+    <g>
+      <text x="76" y="395" class="tiny">DATA ANALYST • BI PROFESSIONAL • AI/ML PRACTITIONER</text>
+      <text x="76" y="435" class="name">Akshay Rathod</text>
+
+      <text x="78" y="466" class="body">I build analytics systems that transform raw data into</text>
+      <text x="78" y="486" class="body">machine learning models, business dashboards, and</text>
+      <text x="78" y="506" class="body">decision-ready insights using Python, SQL, Power BI,</text>
+      <text x="78" y="526" class="body">Machine Learning, PyTorch, and MLOps workflows.</text>
+
+      <g class="slide">
+        <rect x="76" y="548" width="150" height="40" rx="2" fill="#FFFFFF"/>
+        <text x="134" y="573" text-anchor="middle" class="button">Explore Profile</text>
+        <path d="M190 568H210" stroke="#111827" stroke-width="2"/>
+        <path d="M204 562L210 568L204 574" stroke="#111827" stroke-width="2" fill="none" stroke-linecap="round"/>
+      </g>
+    </g>
+
+    <!-- right metric cards -->
+    <g class="float">
+      <rect x="720" y="390" width="90" height="90" rx="45" fill="#FFFFFF"/>
+      <text x="765" y="425" text-anchor="middle" class="metricLabel" fill="#111827">SKILLS</text>
+      <text x="765" y="455" text-anchor="middle" font-family="Inter, Segoe UI, Arial" font-size="30" font-weight="950" fill="#111827">6+</text>
+    </g>
+
+    <g class="float">
+      <rect x="830" y="390" width="90" height="90" rx="45" fill="#DC2626"/>
+      <text x="875" y="425" text-anchor="middle" class="metricLabel" fill="#FEE2E2">FOCUS</text>
+      <text x="875" y="455" text-anchor="middle" font-family="Inter, Segoe UI, Arial" font-size="30" font-weight="950" fill="#FFFFFF">AI</text>
+    </g>
+
+    <g class="float">
+      <rect x="940" y="390" width="90" height="90" rx="45" fill="#111827"/>
+      <text x="985" y="425" text-anchor="middle" class="metricLabel">CORE</text>
+      <text x="985" y="455" text-anchor="middle" class="metric">BI</text>
+    </g>
+
+    <!-- right text quote -->
+    <g>
+      <rect x="870" y="500" width="4" height="68" fill="#EF4444"/>
+      <text x="890" y="512" class="tiny">MISSION</text>
+      <text x="890" y="540" class="body">Turning analytics into action,</text>
+      <text x="890" y="560" class="body">models into products, and</text>
+      <text x="890" y="580" class="body">dashboards into business decisions.</text>
+    </g>
+
+    <!-- video controls -->
+    <g>
+      <path d="M76 594L96 606L76 618V594Z" fill="#FFFFFF"/>
+      <text x="120" y="614" font-family="Inter, Segoe UI, Arial" font-size="30" font-weight="900" fill="#FFFFFF">0:00</text>
+      <text x="206" y="614" font-family="Inter, Segoe UI, Arial" font-size="26" font-weight="900" fill="#CBD5E1">/ 0:10</text>
+
+      <line x1="320" y1="606" x2="1080" y2="606" stroke="#CBD5E1" stroke-opacity="0.35" stroke-width="8" stroke-linecap="round"/>
+      <line x1="320" y1="606" x2="1080" y2="606" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" class="progress"/>
+
+      <circle cx="1080" cy="606" r="10" fill="#FFFFFF" opacity="0.85"/>
+      <path d="M1112 596V616M1122 590V622M1132 596V616" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+    </g>
+
+    <!-- expand icon -->
+    <g transform="translate(1085,505)">
+      <path d="M0 34L34 0" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+      <path d="M18 0H34V16" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    </g>
+
+  </g>
+
+</svg>
