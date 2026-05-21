@@ -1,0 +1,242 @@
+<svg width="1200" height="540" viewBox="0 0 1200 540" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="540">
+      <stop stop-color="#120A2A"/>
+      <stop offset="0.45" stop-color="#1A103D"/>
+      <stop offset="1" stop-color="#070414"/>
+    </linearGradient>
+
+    <linearGradient id="animeGlow" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#F0ABFC"/>
+      <stop offset="0.45" stop-color="#A855F7"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#2E1065"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+
+    <linearGradient id="pinkBlue" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#F472B6"/>
+      <stop offset="1" stop-color="#60A5FA"/>
+    </linearGradient>
+
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="20" stdDeviation="24" flood-color="#000000" flood-opacity="0.55"/>
+    </filter>
+
+    <filter id="animeNeon" x="-80%" y="-80%" width="260%" height="260%">
+      <feDropShadow dx="0" dy="0" stdDeviation="7" flood-color="#F0ABFC" flood-opacity="0.95"/>
+      <feDropShadow dx="0" dy="0" stdDeviation="18" flood-color="#7C3AED" flood-opacity="0.8"/>
+    </filter>
+
+    <style>
+      .title {
+        font-family: Segoe UI, Inter, Arial, sans-serif;
+        font-size: 42px;
+        font-weight: 950;
+        fill: #FDF4FF;
+        letter-spacing: -1px;
+      }
+
+      .subtitle {
+        font-family: Segoe UI, Inter, Arial, sans-serif;
+        font-size: 16px;
+        font-weight: 650;
+        fill: #C4B5FD;
+      }
+
+      .tag {
+        font-family: Segoe UI, Inter, Arial, sans-serif;
+        font-size: 12px;
+        font-weight: 900;
+        letter-spacing: 1.4px;
+        fill: #F0ABFC;
+      }
+
+      .skillName {
+        font-family: Segoe UI, Inter, Arial, sans-serif;
+        font-size: 17px;
+        font-weight: 900;
+        fill: #FDF4FF;
+      }
+
+      .skillSub {
+        font-family: Segoe UI, Inter, Arial, sans-serif;
+        font-size: 12px;
+        font-weight: 700;
+        fill: #C4B5FD;
+      }
+
+      .float1 { animation: float1 5s ease-in-out infinite; }
+      .float2 { animation: float2 6.2s ease-in-out infinite; }
+      .float3 { animation: float3 7.4s ease-in-out infinite; }
+
+      @keyframes float1 {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-10px); }
+      }
+
+      @keyframes float2 {
+        0%, 100% { transform: translateY(-7px); }
+        50% { transform: translateY(7px); }
+      }
+
+      @keyframes float3 {
+        0%, 100% { transform: translateY(6px); }
+        50% { transform: translateY(-9px); }
+      }
+
+      .pulse {
+        animation: pulse 2.4s ease-in-out infinite;
+        transform-origin: center;
+      }
+
+      @keyframes pulse {
+        0%, 100% { opacity: .45; transform: scale(1); }
+        50% { opacity: 1; transform: scale(1.18); }
+      }
+
+      .dash {
+        stroke-dasharray: 10 14;
+        animation: dash 2.5s linear infinite;
+      }
+
+      @keyframes dash {
+        from { stroke-dashoffset: 140; }
+        to { stroke-dashoffset: 0; }
+      }
+
+      .shine {
+        animation: shine 3.2s ease-in-out infinite;
+      }
+
+      @keyframes shine {
+        0%, 100% { opacity: .25; }
+        50% { opacity: 1; }
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="540" rx="34" fill="url(#bg)"/>
+
+  <!-- Top anime neon line -->
+  <rect x="0" y="0" width="1200" height="8" fill="url(#animeGlow)"/>
+
+  <!-- Glow blobs -->
+  <circle cx="240" cy="120" r="165" fill="#A855F7" opacity="0.18"/>
+  <circle cx="950" cy="145" r="190" fill="#F472B6" opacity="0.13"/>
+  <circle cx="600" cy="455" r="180" fill="#38BDF8" opacity="0.10"/>
+
+  <!-- Stars / sparkle -->
+  <circle cx="145" cy="220" r="3" fill="#F0ABFC" class="shine"/>
+  <circle cx="405" cy="190" r="3" fill="#93C5FD" class="shine"/>
+  <circle cx="760" cy="205" r="3" fill="#F0ABFC" class="shine"/>
+  <circle cx="1080" cy="210" r="3" fill="#93C5FD" class="shine"/>
+  <path d="M1000 75L1006 88L1020 94L1006 100L1000 113L994 100L980 94L994 88Z" fill="#F0ABFC" opacity="0.7" class="shine"/>
+  <path d="M500 82L505 93L516 98L505 103L500 114L495 103L484 98L495 93Z" fill="#38BDF8" opacity="0.65" class="shine"/>
+
+  <!-- Subtle grid -->
+  <g opacity="0.09">
+    <path d="M0 90H1200M0 180H1200M0 270H1200M0 360H1200M0 450H1200" stroke="#E9D5FF"/>
+    <path d="M100 0V540M220 0V540M340 0V540M460 0V540M580 0V540M700 0V540M820 0V540M940 0V540M1060 0V540" stroke="#E9D5FF"/>
+  </g>
+
+  <!-- Header -->
+  <g filter="url(#shadow)">
+    <rect x="80" y="48" width="390" height="42" rx="21" fill="#1E103A" stroke="#7E22CE"/>
+    <circle cx="112" cy="69" r="7" fill="#F0ABFC" class="pulse" filter="url(#animeNeon)"/>
+    <text x="134" y="75" class="tag">ANIME INSPIRED PROFESSIONAL SKILLS</text>
+  </g>
+
+  <text x="80" y="150" class="title">Technical Skills</text>
+  <text x="82" y="183" class="subtitle">A clean anime cyber theme for Data, Analytics, Machine Learning, BI, and Deployment.</text>
+
+  <!-- Anime sword/energy line -->
+  <path d="M170 310 C320 245 455 245 600 310 C745 375 880 375 1030 310"
+        stroke="url(#animeGlow)" stroke-width="4" fill="none" class="dash" opacity="0.75" filter="url(#animeNeon)"/>
+
+  <!-- Python -->
+  <g class="float1" filter="url(#shadow)">
+    <rect x="100" y="235" width="150" height="130" rx="30" fill="url(#card)" stroke="#A855F7"/>
+    <circle cx="175" cy="290" r="36" fill="#1A103D" stroke="#F0ABFC" stroke-width="2" filter="url(#animeNeon)"/>
+    <path d="M157 287C157 276 164 270 176 270H189V281H171C166 281 164 283 164 287V293H157V287Z" fill="#F0ABFC"/>
+    <path d="M193 293C193 304 186 310 174 310H161V299H179C184 299 186 297 186 293V287H193V293Z" fill="#60A5FA"/>
+    <circle cx="181" cy="276" r="2" fill="#120A2A"/>
+    <circle cx="169" cy="304" r="2" fill="#120A2A"/>
+    <text x="128" y="402" class="skillName">Python</text>
+    <text x="124" y="424" class="skillSub">Data Analysis</text>
+  </g>
+
+  <!-- SQL -->
+  <g class="float2" filter="url(#shadow)">
+    <rect x="280" y="235" width="150" height="130" rx="30" fill="url(#card)" stroke="#A855F7"/>
+    <circle cx="355" cy="290" r="36" fill="#1A103D" stroke="#F0ABFC" stroke-width="2" filter="url(#animeNeon)"/>
+    <ellipse cx="355" cy="276" rx="25" ry="9" stroke="#F0ABFC" stroke-width="4"/>
+    <path d="M330 276V302C330 307 342 312 355 312C368 312 380 307 380 302V276" stroke="#60A5FA" stroke-width="4"/>
+    <path d="M330 289C330 294 342 299 355 299C368 299 380 294 380 289" stroke="#F0ABFC" stroke-width="3"/>
+    <text x="330" y="402" class="skillName">SQL</text>
+    <text x="314" y="424" class="skillSub">Data Queries</text>
+  </g>
+
+  <!-- Power BI -->
+  <g class="float3" filter="url(#shadow)">
+    <rect x="460" y="235" width="150" height="130" rx="30" fill="url(#card)" stroke="#A855F7"/>
+    <circle cx="535" cy="290" r="36" fill="#1A103D" stroke="#F0ABFC" stroke-width="2" filter="url(#animeNeon)"/>
+    <rect x="513" y="298" width="10" height="18" rx="3" fill="#F0ABFC"/>
+    <rect x="530" y="284" width="10" height="32" rx="3" fill="#C084FC"/>
+    <rect x="547" y="269" width="10" height="47" rx="3" fill="#60A5FA"/>
+    <path d="M512 316H560" stroke="#FDF4FF" stroke-width="3" stroke-linecap="round"/>
+    <text x="496" y="402" class="skillName">Power BI</text>
+    <text x="491" y="424" class="skillSub">Dashboards</text>
+  </g>
+
+  <!-- Machine Learning -->
+  <g class="float1" filter="url(#shadow)">
+    <rect x="640" y="235" width="150" height="130" rx="30" fill="url(#card)" stroke="#A855F7"/>
+    <circle cx="715" cy="290" r="36" fill="#1A103D" stroke="#F0ABFC" stroke-width="2" filter="url(#animeNeon)"/>
+    <circle cx="700" cy="278" r="5" fill="#F0ABFC"/>
+    <circle cx="728" cy="274" r="5" fill="#93C5FD"/>
+    <circle cx="737" cy="302" r="5" fill="#F0ABFC"/>
+    <circle cx="707" cy="308" r="5" fill="#93C5FD"/>
+    <path d="M700 278L728 274L737 302L707 308L700 278L737 302" stroke="#C084FC" stroke-width="3"/>
+    <text x="663" y="402" class="skillName">Machine Learning</text>
+    <text x="676" y="424" class="skillSub">Predictive Models</text>
+  </g>
+
+  <!-- PyTorch -->
+  <g class="float2" filter="url(#shadow)">
+    <rect x="820" y="235" width="150" height="130" rx="30" fill="url(#card)" stroke="#A855F7"/>
+    <circle cx="895" cy="290" r="36" fill="#1A103D" stroke="#F0ABFC" stroke-width="2" filter="url(#animeNeon)"/>
+    <path d="M895 260C881 274 871 286 871 300C871 315 882 324 895 324C909 324 920 315 920 300C920 287 909 274 895 260Z" stroke="#F0ABFC" stroke-width="5"/>
+    <circle cx="909" cy="280" r="4" fill="#93C5FD"/>
+    <path d="M883 305C890 312 900 312 907 305" stroke="#60A5FA" stroke-width="3" stroke-linecap="round"/>
+    <text x="860" y="402" class="skillName">PyTorch</text>
+    <text x="850" y="424" class="skillSub">Deep Learning</text>
+  </g>
+
+  <!-- MLOps -->
+  <g class="float3" filter="url(#shadow)">
+    <rect x="1000" y="235" width="150" height="130" rx="30" fill="url(#card)" stroke="#A855F7"/>
+    <circle cx="1075" cy="290" r="36" fill="#1A103D" stroke="#F0ABFC" stroke-width="2" filter="url(#animeNeon)"/>
+    <path d="M1055 290H1095M1075 270V310" stroke="#F0ABFC" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="1055" cy="290" r="6" fill="#60A5FA"/>
+    <circle cx="1095" cy="290" r="6" fill="#60A5FA"/>
+    <circle cx="1075" cy="270" r="6" fill="#F472B6"/>
+    <circle cx="1075" cy="310" r="6" fill="#F472B6"/>
+    <text x="1043" y="402" class="skillName">MLOps</text>
+    <text x="1028" y="424" class="skillSub">Deployment</text>
+  </g>
+
+  <!-- Bottom badge -->
+  <g filter="url(#shadow)">
+    <rect x="250" y="470" width="700" height="46" rx="23" fill="#1E103A" stroke="#7E22CE"/>
+    <text x="288" y="499" font-family="Segoe UI, Arial" font-size="15" font-weight="900" fill="#FDF4FF">
+      Python · SQL · Power BI · Machine Learning · PyTorch · MLOps · Analytics · Dashboards
+    </text>
+  </g>
+
+</svg>
