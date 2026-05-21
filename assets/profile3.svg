@@ -1,0 +1,340 @@
+<svg width="1200" height="560" viewBox="0 0 1200 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="50%" r="80%">
+      <stop offset="0%" stop-color="#E0F2FE"/>
+      <stop offset="45%" stop-color="#F8FAFC"/>
+      <stop offset="100%" stop-color="#EEF2FF"/>
+    </radialGradient>
+
+    <linearGradient id="blueGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#06B6D4"/>
+    </linearGradient>
+
+    <linearGradient id="purpleGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#EC4899"/>
+    </linearGradient>
+
+    <linearGradient id="greenGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#10B981"/>
+      <stop offset="1" stop-color="#22C55E"/>
+    </linearGradient>
+
+    <linearGradient id="orangeGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#F97316"/>
+      <stop offset="1" stop-color="#FACC15"/>
+    </linearGradient>
+
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="20" stdDeviation="22" flood-color="#0F172A" flood-opacity="0.16"/>
+    </filter>
+
+    <filter id="glow" x="-70%" y="-70%" width="240%" height="240%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      .title {
+        font-family: Segoe UI, Inter, Arial, sans-serif;
+        font-size: 54px;
+        font-weight: 900;
+        fill: #0F172A;
+        letter-spacing: -1.5px;
+      }
+
+      .role {
+        font-family: Segoe UI, Inter, Arial, sans-serif;
+        font-size: 21px;
+        font-weight: 700;
+        fill: #334155;
+      }
+
+      .mono {
+        font-family: Consolas, Monaco, monospace;
+        font-size: 15px;
+        fill: #475569;
+      }
+
+      .small {
+        font-family: Segoe UI, Inter, Arial, sans-serif;
+        font-size: 13px;
+        font-weight: 800;
+        letter-spacing: 1px;
+        fill: #64748B;
+      }
+
+      .chipText {
+        font-family: Segoe UI, Inter, Arial, sans-serif;
+        font-size: 13px;
+        font-weight: 900;
+      }
+
+      .terminal {
+        font-family: Consolas, Monaco, monospace;
+        font-size: 14px;
+        fill: #E2E8F0;
+      }
+
+      .greenText { fill: #22C55E; }
+      .blueText { fill: #38BDF8; }
+      .pinkText { fill: #F472B6; }
+      .orangeText { fill: #FDBA74; }
+
+      .float {
+        animation: float 5s ease-in-out infinite;
+      }
+
+      .float2 {
+        animation: float2 6s ease-in-out infinite;
+      }
+
+      .float3 {
+        animation: float3 7s ease-in-out infinite;
+      }
+
+      @keyframes float {
+        0%, 100% { transform: translateY(0); }
+        50% { transform: translateY(-12px); }
+      }
+
+      @keyframes float2 {
+        0%, 100% { transform: translateY(-8px); }
+        50% { transform: translateY(8px); }
+      }
+
+      @keyframes float3 {
+        0%, 100% { transform: translateY(6px); }
+        50% { transform: translateY(-10px); }
+      }
+
+      .spin {
+        transform-origin: 600px 285px;
+        animation: spin 18s linear infinite;
+      }
+
+      .spinReverse {
+        transform-origin: 600px 285px;
+        animation: spin 24s linear infinite reverse;
+      }
+
+      @keyframes spin {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+      }
+
+      .pulse {
+        animation: pulse 2.4s ease-in-out infinite;
+        transform-origin: center;
+      }
+
+      @keyframes pulse {
+        0%, 100% { opacity: .45; transform: scale(1); }
+        50% { opacity: 1; transform: scale(1.18); }
+      }
+
+      .dash {
+        stroke-dasharray: 10 12;
+        animation: dash 2s linear infinite;
+      }
+
+      @keyframes dash {
+        from { stroke-dashoffset: 120; }
+        to { stroke-dashoffset: 0; }
+      }
+
+      .blink {
+        animation: blink 1s infinite;
+      }
+
+      @keyframes blink {
+        0%, 45% { opacity: 1; }
+        46%, 100% { opacity: 0; }
+      }
+
+      .scan {
+        animation: scan 3s ease-in-out infinite;
+      }
+
+      @keyframes scan {
+        0% { transform: translateY(-55px); opacity: 0; }
+        20% { opacity: .8; }
+        80% { opacity: .8; }
+        100% { transform: translateY(110px); opacity: 0; }
+      }
+
+      .bar1 { animation: bar 2.1s ease-in-out infinite; transform-origin: bottom; transform-box: fill-box; }
+      .bar2 { animation: bar 2.5s ease-in-out infinite; transform-origin: bottom; transform-box: fill-box; }
+      .bar3 { animation: bar 2.8s ease-in-out infinite; transform-origin: bottom; transform-box: fill-box; }
+
+      @keyframes bar {
+        0%, 100% { transform: scaleY(.35); }
+        50% { transform: scaleY(1); }
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="560" rx="38" fill="url(#bg)"/>
+
+  <!-- Grid -->
+  <g opacity="0.25">
+    <path d="M0 80H1200M0 160H1200M0 240H1200M0 320H1200M0 400H1200M0 480H1200" stroke="#CBD5E1"/>
+    <path d="M100 0V560M220 0V560M340 0V560M460 0V560M580 0V560M700 0V560M820 0V560M940 0V560M1060 0V560" stroke="#CBD5E1"/>
+  </g>
+
+  <!-- Header badge -->
+  <g filter="url(#shadow)">
+    <rect x="60" y="42" width="360" height="42" rx="21" fill="white"/>
+    <circle cx="88" cy="63" r="7" fill="#22C55E" class="pulse"/>
+    <text x="108" y="69" class="small">LIVE GITHUB INTELLIGENCE SYSTEM</text>
+  </g>
+
+  <!-- Left identity panel -->
+  <g filter="url(#shadow)">
+    <rect x="60" y="115" width="385" height="250" rx="32" fill="white" opacity="0.96"/>
+    <text x="92" y="172" class="title">Akshay</text>
+    <text x="92" y="222" class="title" fill="#2563EB">Rathod</text>
+    <text x="95" y="260" class="role">Data Scientist • AI/ML Engineer</text>
+    <text x="95" y="290" class="mono">SQL → Python → ML → Power BI → Impact</text>
+
+    <rect x="95" y="320" width="110" height="34" rx="17" fill="#EFF6FF"/>
+    <text x="124" y="342" class="chipText" fill="#2563EB">Python</text>
+
+    <rect x="215" y="320" width="82" height="34" rx="17" fill="#ECFDF5"/>
+    <text x="241" y="342" class="chipText" fill="#059669">SQL</text>
+
+    <rect x="307" y="320" width="102" height="34" rx="17" fill="#F5F3FF"/>
+    <text x="327" y="342" class="chipText" fill="#7C3AED">Power BI</text>
+  </g>
+
+  <!-- Left lower metric cards -->
+  <g class="float2" filter="url(#shadow)">
+    <rect x="75" y="395" width="160" height="95" rx="26" fill="white"/>
+    <text x="102" y="430" class="small">PROJECTS</text>
+    <text x="102" y="466" font-family="Segoe UI, Arial" font-size="31" font-weight="900" fill="#2563EB">10+</text>
+  </g>
+
+  <g class="float3" filter="url(#shadow)">
+    <rect x="255" y="395" width="180" height="95" rx="26" fill="white"/>
+    <text x="282" y="430" class="small">AUTOMATION</text>
+    <text x="282" y="466" font-family="Segoe UI, Arial" font-size="31" font-weight="900" fill="#10B981">15h/wk</text>
+  </g>
+
+  <!-- Central AI command core -->
+  <g>
+    <!-- Radar rings -->
+    <circle cx="600" cy="285" r="150" stroke="#BFDBFE" stroke-width="2" opacity="0.9"/>
+    <circle cx="600" cy="285" r="115" stroke="#C4B5FD" stroke-width="2" opacity="0.75"/>
+    <circle cx="600" cy="285" r="80" stroke="#99F6E4" stroke-width="2" opacity="0.85"/>
+
+    <g class="spin">
+      <circle cx="600" cy="135" r="7" fill="#2563EB" filter="url(#glow)"/>
+      <circle cx="750" cy="285" r="7" fill="#7C3AED" filter="url(#glow)"/>
+      <circle cx="600" cy="435" r="7" fill="#10B981" filter="url(#glow)"/>
+      <circle cx="450" cy="285" r="7" fill="#F97316" filter="url(#glow)"/>
+    </g>
+
+    <g class="spinReverse">
+      <rect x="558" y="104" width="84" height="32" rx="16" fill="#EFF6FF" stroke="#93C5FD"/>
+      <text x="580" y="125" class="chipText" fill="#2563EB">EDA</text>
+
+      <rect x="718" y="270" width="84" height="32" rx="16" fill="#F5F3FF" stroke="#C4B5FD"/>
+      <text x="738" y="291" class="chipText" fill="#7C3AED">ML</text>
+
+      <rect x="558" y="435" width="84" height="32" rx="16" fill="#ECFDF5" stroke="#86EFAC"/>
+      <text x="580" y="456" class="chipText" fill="#059669">BI</text>
+
+      <rect x="398" y="270" width="84" height="32" rx="16" fill="#FFF7ED" stroke="#FDBA74"/>
+      <text x="420" y="291" class="chipText" fill="#EA580C">SQL</text>
+    </g>
+
+    <!-- Core card -->
+    <g filter="url(#shadow)" class="float">
+      <rect x="505" y="190" width="190" height="190" rx="46" fill="#0F172A"/>
+      <rect x="525" y="210" width="150" height="150" rx="38" fill="#1E293B"/>
+
+      <!-- Brain icon -->
+      <path d="M574 265C558 265 548 254 548 240C548 225 560 214 574 216C579 204 592 198 604 204C612 195 628 196 636 207C650 206 662 217 662 232C674 237 679 251 673 263C680 275 674 291 660 296C657 313 640 321 626 313C617 324 599 324 590 312C575 317 560 306 560 290C550 286 544 275 548 264" fill="url(#blueGrad)"/>
+
+      <circle cx="580" cy="250" r="5" fill="white"/>
+      <circle cx="620" cy="245" r="5" fill="white"/>
+      <circle cx="642" cy="270" r="5" fill="white"/>
+      <circle cx="600" cy="292" r="5" fill="white"/>
+      <path d="M580 250L620 245L642 270L600 292L580 250" stroke="white" stroke-width="2" opacity="0.7"/>
+
+      <rect x="538" y="222" width="124" height="4" rx="2" fill="#38BDF8" class="scan"/>
+
+      <text x="552" y="345" font-family="Segoe UI, Arial" font-size="15" font-weight="900" fill="#E2E8F0">
+        AI IMPACT CORE
+      </text>
+    </g>
+
+    <!-- Connecting lines -->
+    <path d="M445 240C485 210 505 210 530 235" stroke="#2563EB" stroke-width="3" fill="none" class="dash"/>
+    <path d="M695 235C725 215 765 215 800 245" stroke="#7C3AED" stroke-width="3" fill="none" class="dash"/>
+    <path d="M505 350C470 390 445 405 410 420" stroke="#10B981" stroke-width="3" fill="none" class="dash"/>
+    <path d="M690 350C735 390 780 405 830 420" stroke="#F97316" stroke-width="3" fill="none" class="dash"/>
+  </g>
+
+  <!-- Right terminal panel -->
+  <g filter="url(#shadow)">
+    <rect x="815" y="76" width="325" height="185" rx="28" fill="#0F172A"/>
+    <rect x="815" y="76" width="325" height="42" rx="28" fill="#1E293B"/>
+    <circle cx="844" cy="97" r="6" fill="#EF4444"/>
+    <circle cx="866" cy="97" r="6" fill="#F59E0B"/>
+    <circle cx="888" cy="97" r="6" fill="#22C55E"/>
+    <text x="915" y="102" font-family="Segoe UI, Arial" font-size="13" font-weight="800" fill="#CBD5E1">akshay@os</text>
+
+    <text x="842" y="145" class="terminal greenText">$ run career_engine.py</text>
+    <text x="842" y="174" class="terminal blueText">skills = ["SQL", "ML", "BI"]</text>
+    <text x="842" y="203" class="terminal pinkText">mission = "build impact"</text>
+    <text x="842" y="232" class="terminal orangeText">status = "shipping projects"</text>
+    <rect x="1042" y="218" width="9" height="18" fill="#E2E8F0" class="blink"/>
+  </g>
+
+  <!-- Right project modules -->
+  <g class="float2" filter="url(#shadow)">
+    <rect x="825" y="300" width="145" height="95" rx="26" fill="white"/>
+    <text x="850" y="333" class="small">PROJECT 01</text>
+    <text x="850" y="363" font-family="Segoe UI, Arial" font-size="18" font-weight="900" fill="#0F172A">TeleChurn</text>
+    <text x="850" y="385" class="mono">Churn ML</text>
+  </g>
+
+  <g class="float3" filter="url(#shadow)">
+    <rect x="995" y="300" width="145" height="95" rx="26" fill="white"/>
+    <text x="1020" y="333" class="small">PROJECT 02</text>
+    <text x="1020" y="363" font-family="Segoe UI, Arial" font-size="18" font-weight="900" fill="#0F172A">MediCost</text>
+    <text x="1020" y="385" class="mono">Cost AI</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="825" y="420" width="315" height="80" rx="28" fill="white"/>
+    <text x="852" y="453" class="small">LEARNING PATH</text>
+    <text x="852" y="480" font-family="Segoe UI, Arial" font-size="20" font-weight="900" fill="#0F172A">
+      PyTorch → Deep Learning → MLOps → GenAI
+    </text>
+  </g>
+
+  <!-- Mini chart inside right area -->
+  <g filter="url(#shadow)" class="float">
+    <rect x="1025" y="155" width="95" height="82" rx="22" fill="white"/>
+    <rect x="1050" y="198" width="12" height="30" rx="4" fill="#60A5FA" class="bar1"/>
+    <rect x="1070" y="185" width="12" height="43" rx="4" fill="#34D399" class="bar2"/>
+    <rect x="1090" y="173" width="12" height="55" rx="4" fill="#F97316" class="bar3"/>
+  </g>
+
+  <!-- Bottom premium strip -->
+  <g filter="url(#shadow)">
+    <rect x="470" y="500" width="260" height="38" rx="19" fill="#0F172A"/>
+    <text x="500" y="525" font-family="Segoe UI, Arial" font-size="15" font-weight="900" fill="#E2E8F0">
+      DATA × AI × BUSINESS IMPACT
+    </text>
+  </g>
+
+</svg>
