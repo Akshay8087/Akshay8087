@@ -5,16 +5,16 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,50:7b2ff7,100:ff6b6b&height=200&section=header&text=Akshay%20Rathod&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%2FML%20Engineer%20%7C%20IoT%20Innovator&descAlignY=58&descSize=18&animation=fadeIn" />
  
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&random=false&width=600&height=60&lines=Data-Driven+Problem+Solver+%F0%9F%A7%A0;Building+Intelligent+AI+%2B+IoT+Systems+%F0%9F%A4%96;Turning+Raw+Data+into+Decisions+%F0%9F%93%8A;MLOps+%7C+TinyML+%7C+Edge+AI+Explorer+%F0%9F%9A%80;Let%27s+Innovate+Together!+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&height=60&lines=Data-Driven+Problem+Solver+%F0%9F%A7%A0;Building+Intelligent+AI+%2B+IoT+Systems+%F0%9F%A4%96;Turning+Raw+Data+into+Decisions+%F0%9F%93%8A;MLOps+%7C+TinyML+%7C+Edge+AI+Explorer+%F0%9F%9A%80;Let%27s+Innovate+Together!+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Opportunities-Pune%2C%20India-00f5d4?style=for-the-badge&labelColor=0d1117&color=00f5d4" />
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Opportunities-Pune%2C%20India-00f5d4?style=for-the-badge&color=00f5d4" />
 &nbsp;
-<img src="https://img.shields.io/badge/Focus-MLOps%20%7C%20TinyML-7b2ff7?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Focus-MLOps%20%7C%20TinyML-7b2ff7?style=for-the-badge" />
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=Akshay8087&style=for-the-badge&color=ff6b6b&label=PROFILE+VIEWS&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=Akshay8087&style=for-the-badge&color=ff6b6b&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -26,7 +26,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=900&color=00F5D4&center=true&vCenter=true&width=900&lines=Entering+Character+Profile...;Loading+Skill+Aura...;Activating+Data+Scientist+Arc..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=900&color=6C63FF&center=true&vCenter=true&width=900&lines=Entering+Character+Profile...;Loading+Skill+Aura...;Activating+Data+Scientist+Arc..." />
 
 </div>
 
@@ -65,16 +65,16 @@ akshay = {
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/Projects%20Built-12+-00f5d4?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Projects%20Built-12+-00f5d4?style=for-the-badge" />
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Technologies-25+-7b2ff7?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Technologies-25+-7b2ff7?style=for-the-badge" />
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Cloud%20Platforms-3-ff6b6b?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Cloud%20Platforms-3-ff6b6b?style=for-the-badge" />
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Commits-500+-ffd93d?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Commits-500+-ffd93d?style=for-the-badge" />
 </td>
 </tr>
 </table>
@@ -122,7 +122,7 @@ akshay = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=900&color=00F5D4&center=true&vCenter=true&width=900&lines=Selecting+Weapons...;Python+for+Data+Science.;SQL+for+Business+Logic.;Power+BI+for+Decision+Making.;ML+Tools+for+Prediction." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=900&color=6C63FF&center=true&vCenter=true&width=900&lines=Selecting+Weapons...;Python+for+Data+Science.;SQL+for+Business+Logic.;Power+BI+for+Decision+Making.;ML+Tools+for+Prediction." />
 
 <br/><br/>
 
@@ -184,7 +184,7 @@ akshay = {
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=900&color=00F5D4&center=true&vCenter=true&width=950&lines=Quest+01%3A+Healthcare+Cost+Intelligence.;Quest+02%3A+Movie+Rating+Prediction.;Mission%3A+Problem+%E2%86%92+Data+%E2%86%92+Model+%E2%86%92+Product+%E2%86%92+Impact." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=900&color=6C63FF&center=true&vCenter=true&width=950&lines=Quest+01%3A+Healthcare+Cost+Intelligence.;Quest+02%3A+Movie+Rating+Prediction.;Mission%3A+Problem+%E2%86%92+Data+%E2%86%92+Model+%E2%86%92+Product+%E2%86%92+Impact." />
 
 </div>
 
@@ -197,7 +197,7 @@ akshay = {
 
 ### 🏥 MediCost AI
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=00F5D4&center=true&vCenter=true&width=350&lines=Medical+Cost+Prediction;Regression+ML+Model;Flask+AI+Web+App;Business+Cost+Insights" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=6C63FF&center=true&vCenter=true&width=350&lines=Medical+Cost+Prediction;Regression+ML+Model;Flask+AI+Web+App;Business+Cost+Insights" />
 
 <br/>
 
@@ -251,13 +251,13 @@ akshay = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=900&color=00F5D4&center=true&vCenter=true&width=900&lines=Tracking+Consistency...;Building+Project+XP...;Leveling+Up+With+Every+Commit...;From+Learning+to+Shipping." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=900&color=6C63FF&center=true&vCenter=true&width=900&lines=Tracking+Consistency...;Building+Project+XP...;Leveling+Up+With+Every+Commit...;From+Learning+to+Shipping." />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Training_Mode-Active-00f5d4?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/XP_Source-Projects%20%2B%20Commits-7b2ff7?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Growth_System-Online-ff6b6b?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Training_Mode-Active-00f5d4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/XP_Source-Projects%20%2B%20Commits-7b2ff7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Growth_System-Online-ff6b6b?style=for-the-badge" />
 
 </div>
 
@@ -267,7 +267,7 @@ akshay = {
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=900&color=00F5D4&center=true&vCenter=true&width=900&lines=Tracking+Consistency...;Measuring+Growth...;Analyzing+Code+Activity...;Every+Commit+Adds+to+the+Journey." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=900&color=6C63FF&center=true&vCenter=true&width=900&lines=Tracking+Consistency...;Measuring+Growth...;Analyzing+Code+Activity...;Every+Commit+Adds+to+the+Journey." />
 
 <br/><br/>
 
@@ -358,20 +358,20 @@ MLOps / Docker     ██████████████░░░░░░�
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=900&color=00F5D4&center=true&vCenter=true&width=950&lines=Open+to+Data%2C+BI%2C+and+AI%2FML+Opportunities.;Let's+build+data-driven+solutions+together.;Available+for+collaboration%2C+projects%2C+and+career+opportunities.;Thanks+for+visiting+my+GitHub+universe." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=900&color=6C63FF&center=true&vCenter=true&width=950&lines=Open+to+Data%2C+BI%2C+and+AI%2FML+Opportunities.;Let's+build+data-driven+solutions+together.;Available+for+collaboration%2C+projects%2C+and+career+opportunities.;Thanks+for+visiting+my+GitHub+universe." />
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/akshay-rathod-537440190">
-  <img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:akshayrathod8179@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://github.com/Akshay8087">
-  <img src="https://img.shields.io/badge/GitHub-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/GitHub-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -408,7 +408,7 @@ MLOps / Docker     ██████████████░░░░░░�
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&pause=1000&color=00F5D4&center=true&vCenter=true&width=950&lines=Every+dataset+has+a+story.;Every+model+has+a+purpose.;Every+dashboard+should+drive+a+decision.;Learning.+Building.+Shipping.+Improving." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=950&lines=Every+dataset+has+a+story.;Every+model+has+a+purpose.;Every+dashboard+should+drive+a+decision.;Learning.+Building.+Shipping.+Improving." />
 
 <br/><br/>
 
