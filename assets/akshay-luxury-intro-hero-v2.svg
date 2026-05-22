@@ -1,0 +1,201 @@
+\
+<svg width="1400" height="560" viewBox="0 0 1400 560" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Akshay Rathod premium animated introduction hero banner">
+  <defs>
+    <!-- ===== Luxury Palette ===== -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="560" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#05070D"/>
+      <stop offset="0.48" stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#04060B"/>
+    </linearGradient>
+
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#91672A"/>
+      <stop offset="0.22" stop-color="#D4AF37"/>
+      <stop offset="0.48" stop-color="#FFF1B8"/>
+      <stop offset="0.7" stop-color="#D4AF37"/>
+      <stop offset="1" stop-color="#76501C"/>
+    </linearGradient>
+
+    <linearGradient id="goldScan" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#D4AF37" stop-opacity="0"/>
+      <stop offset="0.45" stop-color="#FCE7A2" stop-opacity="0.96"/>
+      <stop offset="0.55" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#D4AF37" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="emerald" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#10B981"/>
+      <stop offset="1" stop-color="#064E3B"/>
+    </linearGradient>
+
+    <radialGradient id="goldAura" cx="50%" cy="50%" r="50%">
+      <stop stop-color="#D4AF37" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#D4AF37" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="greenAura" cx="50%" cy="50%" r="50%">
+      <stop stop-color="#10B981" stop-opacity="0.19"/>
+      <stop offset="1" stop-color="#10B981" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="microGrid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" stroke="#E9CF7A" stroke-opacity="0.045" stroke-width="1"/>
+      <circle cx="1" cy="1" r="1" fill="#D4AF37" fill-opacity="0.12"/>
+    </pattern>
+
+    <filter id="blur32">
+      <feGaussianBlur stdDeviation="34"/>
+    </filter>
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="8" result="glow"/>
+      <feMerge>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="titleGlow">
+      <feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#D4AF37" flood-opacity="0.2"/>
+    </filter>
+
+    <clipPath id="frameClip">
+      <rect width="1400" height="560" rx="30"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frameClip)">
+    <!-- ===== Background ===== -->
+    <rect width="1400" height="560" rx="30" fill="url(#bg)"/>
+    <rect width="1400" height="560" fill="url(#microGrid)"/>
+
+    <!-- Floating luxury glow fields -->
+    <ellipse cx="245" cy="220" rx="310" ry="280" fill="url(#goldAura)" filter="url(#blur32)">
+      <animate attributeName="cx" values="245;290;245" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="220;195;220" dur="7s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="1180" cy="240" rx="290" ry="265" fill="url(#greenAura)" filter="url(#blur32)">
+      <animate attributeName="cx" values="1180;1140;1180" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="240;275;240" dur="8s" repeatCount="indefinite"/>
+    </ellipse>
+
+    <!-- Architectural background geometry -->
+    <path d="M-20 470 L470 10" stroke="#D4AF37" stroke-opacity=".05"/>
+    <path d="M80 560 L620 10" stroke="#D4AF37" stroke-opacity=".05"/>
+    <path d="M1400 74 L1070 395" stroke="#10B981" stroke-opacity=".06"/>
+    <path d="M1400 188 L1130 450" stroke="#10B981" stroke-opacity=".06"/>
+
+    <!-- Top metallic highlight -->
+    <rect x="80" y="48" width="1240" height="1.5" rx="1" fill="url(#goldScan)">
+      <animate attributeName="opacity" values=".35;1;.35" dur="3.4s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- ===== Left Content ===== -->
+    <!-- Status pill -->
+    <g transform="translate(104 100)">
+      <rect width="255" height="38" rx="19" fill="#D4AF37" fill-opacity=".075" stroke="#D4AF37" stroke-opacity=".38"/>
+      <circle cx="20" cy="19" r="6" fill="#10B981" filter="url(#softGlow)">
+        <animate attributeName="opacity" values="1;.32;1" dur="1.6s" repeatCount="indefinite"/>
+        <animate attributeName="r" values="6;5;6" dur="1.6s" repeatCount="indefinite"/>
+      </circle>
+      <text x="38" y="24" fill="#F6DE98" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.9">OPEN TO OPPORTUNITIES</text>
+    </g>
+
+    <!-- Main name -->
+    <text x="104" y="232" fill="url(#gold)" font-family="Georgia, 'Times New Roman', serif" font-size="78" font-weight="700" letter-spacing="1" filter="url(#titleGlow)">Akshay Rathod</text>
+
+    <!-- Title -->
+    <text x="108" y="278" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="4.4">DATA SCIENTIST  •  AI/ML ENGINEER  •  BI ANALYST</text>
+
+    <!-- Accent bar -->
+    <g>
+      <rect x="108" y="310" width="92" height="3" rx="1.5" fill="url(#gold)"/>
+      <rect x="205" y="310" width="14" height="3" rx="1.5" fill="#10B981"/>
+      <rect x="224" y="310" width="66" height="3" rx="1.5" fill="#D4AF37" fill-opacity=".27"/>
+    </g>
+
+    <!-- Positioning statement -->
+    <text x="108" y="355" fill="#B8C1D1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" letter-spacing=".6">Transforming business questions into intelligent systems,</text>
+    <text x="108" y="384" fill="#B8C1D1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" letter-spacing=".6">predictive models and decision-ready dashboards.</text>
+
+    <!-- Luxury data chips -->
+    <g transform="translate(108 426)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1">
+      <g>
+        <rect width="120" height="40" rx="11" fill="#0D1523" stroke="#D4AF37" stroke-opacity=".38"/>
+        <text x="60" y="25" text-anchor="middle" fill="#F5E0A3">PYTHON</text>
+      </g>
+      <g transform="translate(132 0)">
+        <rect width="104" height="40" rx="11" fill="#0D1523" stroke="#D4AF37" stroke-opacity=".38"/>
+        <text x="52" y="25" text-anchor="middle" fill="#F5E0A3">SQL</text>
+      </g>
+      <g transform="translate(248 0)">
+        <rect width="126" height="40" rx="11" fill="#0D1523" stroke="#D4AF37" stroke-opacity=".38"/>
+        <text x="63" y="25" text-anchor="middle" fill="#F5E0A3">POWER BI</text>
+      </g>
+      <g transform="translate(386 0)">
+        <rect width="156" height="40" rx="11" fill="#0D1523" stroke="#10B981" stroke-opacity=".5"/>
+        <text x="78" y="25" text-anchor="middle" fill="#C8F2DF">MACHINE LEARNING</text>
+      </g>
+    </g>
+
+    <!-- ===== Right AI Monogram Console ===== -->
+    <g transform="translate(968 78)">
+      <!-- Orbit rings -->
+      <circle cx="183" cy="201" r="166" fill="#08101D" fill-opacity=".64" stroke="#D4AF37" stroke-opacity=".18"/>
+      <circle cx="183" cy="201" r="150" fill="none" stroke="#D4AF37" stroke-opacity=".24" stroke-dasharray="2 15">
+        <animateTransform attributeName="transform" type="rotate" from="0 183 201" to="360 183 201" dur="28s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="183" cy="201" r="132" fill="none" stroke="#10B981" stroke-opacity=".22" stroke-dasharray="42 16">
+        <animateTransform attributeName="transform" type="rotate" from="360 183 201" to="0 183 201" dur="22s" repeatCount="indefinite"/>
+      </circle>
+
+      <!-- Terminal corner decorations -->
+      <path d="M38 92 V48 H82" stroke="#D4AF37" stroke-opacity=".45" stroke-width="2"/>
+      <path d="M328 92 V48 H284" stroke="#D4AF37" stroke-opacity=".45" stroke-width="2"/>
+      <path d="M38 310 V354 H82" stroke="#D4AF37" stroke-opacity=".45" stroke-width="2"/>
+      <path d="M328 310 V354 H284" stroke="#D4AF37" stroke-opacity=".45" stroke-width="2"/>
+
+      <!-- Central avatar / monogram -->
+      <circle cx="183" cy="201" r="98" fill="#07101C" stroke="url(#gold)" stroke-width="2"/>
+      <circle cx="183" cy="201" r="89" fill="none" stroke="#D4AF37" stroke-opacity=".18"/>
+      <text x="183" y="203" text-anchor="middle" fill="url(#gold)" font-family="Georgia, 'Times New Roman', serif" font-size="68" font-weight="700">AR</text>
+      <text x="183" y="237" text-anchor="middle" fill="#10B981" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="3.2">BUILD • ANALYZE • SHIP</text>
+
+      <!-- Orbit nodes -->
+      <circle cx="183" cy="51" r="6" fill="#D4AF37" filter="url(#softGlow)">
+        <animate attributeName="opacity" values=".35;1;.35" dur="2.3s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="333" cy="201" r="5" fill="#10B981" filter="url(#softGlow)">
+        <animate attributeName="opacity" values="1;.35;1" dur="2.8s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="183" cy="351" r="5" fill="#D4AF37" filter="url(#softGlow)">
+        <animate attributeName="opacity" values=".35;1;.35" dur="2.5s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="33" cy="201" r="5" fill="#10B981" filter="url(#softGlow)">
+        <animate attributeName="opacity" values="1;.35;1" dur="2.1s" repeatCount="indefinite"/>
+      </circle>
+
+      <!-- Micro labels -->
+      <text x="183" y="20" text-anchor="middle" fill="#758196" font-family="JetBrains Mono, monospace" font-size="10" letter-spacing="2">INTELLIGENCE CORE</text>
+      <text x="183" y="389" text-anchor="middle" fill="#758196" font-family="JetBrains Mono, monospace" font-size="10" letter-spacing="2">SYSTEM ONLINE / 2026</text>
+    </g>
+
+    <!-- Bottom signature rail -->
+    <g transform="translate(104 515)">
+      <rect width="1192" height="1.5" rx="1" fill="url(#goldScan)">
+        <animate attributeName="opacity" values=".35;.9;.35" dur="4s" repeatCount="indefinite"/>
+      </rect>
+      <text x="0" y="-14" fill="#627086" font-family="JetBrains Mono, monospace" font-size="10" letter-spacing="2.3">PORTFOLIO / AKSHAY8087</text>
+      <text x="1192" y="-14" text-anchor="end" fill="#627086" font-family="JetBrains Mono, monospace" font-size="10" letter-spacing="2.3">PUNE, INDIA / AVAILABLE</text>
+    </g>
+
+    <!-- Moving light sweep across the hero -->
+    <g opacity=".35">
+      <rect x="-300" y="0" width="180" height="560" fill="url(#goldScan)" transform="skewX(-18)">
+        <animate attributeName="x" values="-300;1660" dur="7s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+
+  <!-- Outer border -->
+  <rect x="1.5" y="1.5" width="1397" height="557" rx="28.5" stroke="url(#gold)" stroke-width="3" fill="none"/>
+  <rect x="10" y="10" width="1380" height="540" rx="23" stroke="#D4AF37" stroke-opacity=".12" fill="none"/>
+</svg>
