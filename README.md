@@ -247,51 +247,62 @@ akshay = {
 
 
 
-## ⚡ GitHub Training Arc
+<!-- ========================= GITHUB TRAINING ARC ========================= -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=900&color=6C63FF&center=true&vCenter=true&width=900&lines=Tracking+Consistency...;Building+Project+XP...;Leveling+Up+With+Every+Commit...;From+Learning+to+Shipping." />
+<!-- SECTION HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=GITHUB%20TRAINING%20ARC&fontSize=34&fontColor=EAF2FF&fontAlignY=55&desc=Consistency%20%7C%20Projects%20%7C%20Progress&descSize=13&descAlignY=84&descColor=38BDF8" alt="GitHub Training Arc"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:081525,18:0EA5E9,50:8B5CF6,82:06B6D4,100:081525&height=3&section=header" alt="Divider"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Training_Mode-Active-00f5d4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/XP_Source-Projects%20%2B%20Commits-7b2ff7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Growth_System-Online-ff6b6b?style=for-the-badge" />
-
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5d4,50:7b2ff7,100:ff6b6b&height=4&section=header&animation=fadeIn" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=900&color=6C63FF&center=true&vCenter=true&width=900&lines=Tracking+Consistency...;Measuring+Growth...;Analyzing+Code+Activity...;Every+Commit+Adds+to+the+Journey." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=750&color=38BDF8&center=true&vCenter=true&width=930&lines=%E2%9A%A1+Initializing+Developer+Progress+Tracker...;%F0%9F%A7%A0+Turning+Learning+Into+Real+Projects...;%F0%9F%93%88+Tracking+Growth+Through+Every+Commit...;%F0%9F%9A%80+From+Analysis+to+Production-Ready+Solutions." alt="Animated training arc text"/>
 
 <br/><br/>
 
+<!-- STATUS PILLS -->
+<img src="https://img.shields.io/badge/TRAINING_MODE-ACTIVE-06B6D4?style=for-the-badge&labelColor=071426" alt="Training Mode Active"/>
+&nbsp;
+<img src="https://img.shields.io/badge/CURRENT_ARC-DATA_%E2%86%92_AI-8B5CF6?style=for-the-badge&labelColor=071426" alt="Current Arc Data to AI"/>
+&nbsp;
+<img src="https://img.shields.io/badge/BUILD_STATUS-SHIPPING_PROJECTS-22C55E?style=for-the-badge&labelColor=071426" alt="Building Projects"/>
+
 </div>
 
 <br/>
 
+<!-- TRAINING CONSOLE -->
 <div align="center">
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="33%" align="center">
 
-### ⚡ Contribution Core
+### `01` ⚔️ XP Engine
 
-<img width="100%" src="https://github-readme-stats-salesp07.vercel.app/api?username=Akshay8087&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&border_radius=15" />
+<img src="https://img.shields.io/badge/XP_SOURCE-PROJECTS_%2B_COMMITS-0EA5E9?style=flat-square&labelColor=0B1220" alt="XP Source"/>
+
+Building practical projects that turn concepts into working solutions.
 
 </td>
+<td width="33%" align="center">
 
-<td width="50%" align="center">
+### `02` 🧠 Skill Forge
 
-### 🔥 Streak Engine
+<img src="https://img.shields.io/badge/FOCUS-BI_%7C_ML_%7C_GENAI-8B5CF6?style=flat-square&labelColor=0B1220" alt="Skill Forge"/>
 
-<img width="100%" src="https://streak-stats.demolab.com?user=Akshay8087&theme=tokyonight&hide_border=true&border_radius=15" />
+Strengthening analytics, machine learning, and AI engineering skills.
+
+</td>
+<td width="33%" align="center">
+
+### `03` 🚀 Deployment Quest
+
+<img src="https://img.shields.io/badge/MISSION-LEARN_BUILD_DEPLOY-22C55E?style=flat-square&labelColor=0B1220" alt="Deployment Quest"/>
+
+Shipping portfolio-ready applications with business impact.
 
 </td>
 </tr>
@@ -301,35 +312,79 @@ akshay = {
 
 <br/>
 
+<!-- CORE STATS -->
 <div align="center">
 
-### 🧠 Language Intelligence
+<table>
+<tr>
+<td width="50%" align="center">
 
-<img width="60%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Akshay8087&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" />
+### ⚡ Contribution Core
+
+<img width="100%" src="https://github-readme-stats-salesp07.vercel.app/api?username=Akshay8087&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&border_radius=16&include_all_commits=true" alt="GitHub Contribution Stats"/>
+
+</td>
+<td width="50%" align="center">
+
+### 🔥 Consistency Streak
+
+<img width="100%" src="https://streak-stats.demolab.com?user=Akshay8087&theme=tokyonight&hide_border=true&border_radius=16&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
+<!-- LANGUAGE + ACTIVITY -->
 <div align="center">
 
-### 📈 Contribution Activity Map
+<table>
+<tr>
+<td width="39%" align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akshay8087&theme=tokyo-night&hide_border=true&radius=12&custom_title=Akshay%20Rathod%27s%20GitHub%20Activity%20Map" />
+### 🧬 Language Loadout
+
+<img width="100%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Akshay8087&layout=compact&theme=tokyonight&hide_border=true&border_radius=16&langs_count=8&card_width=380" alt="Top Languages"/>
+
+</td>
+<td width="61%" align="center">
+
+### 📈 Activity Timeline
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akshay8087&theme=tokyo-night&hide_border=true&radius=16&area=true&custom_title=Contribution%20Activity%20Timeline" alt="Contribution Activity Graph"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
+<!-- LEVEL PROGRESS / CLOSING MOTTO -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=900&color=7B2FF7&center=true&vCenter=true&width=850&lines=Code.+Commit.+Improve.+Repeat.;Building+skills+one+project+at+a+time.;From+learning+to+shipping+real+solutions." />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:081525,18:0EA5E9,50:8B5CF6,82:06B6D4,100:081525&height=2&section=header" alt="Divider"/>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6b6b,50:7b2ff7,100:00f5d4&height=4&section=footer&animation=fadeIn" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2400&pause=800&color=A78BFA&center=true&vCenter=true&width=900&lines=%E2%9C%A6+Code.+Commit.+Analyze.+Deploy.;%E2%9C%A6+Building+skills+through+real-world+projects.;%E2%9C%A6+Every+repository+is+a+new+level+unlocked." alt="Developer motto"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/NEXT_LEVEL-AI_ENGINEERING_%26_PRODUCTION_ML-38BDF8?style=for-the-badge&labelColor=071426" alt="Next Level AI Engineering and Production ML"/>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:081525,18:0EA5E9,50:8B5CF6,82:06B6D4,100:081525&height=3&section=footer" alt="Divider"/>
 
 </div>
+
+<!-- ======================= END GITHUB TRAINING ARC ======================= -->
+
 
 ## 🎯 Skill Proficiency
 
