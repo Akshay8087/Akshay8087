@@ -386,24 +386,206 @@ Shipping portfolio-ready applications with business impact.
 <!-- ======================= END GITHUB TRAINING ARC ======================= -->
 
 
-## 🎯 Skill Proficiency
-
-```
-Python             ████████████████████░   95%  ▸ Expert
-Machine Learning   ██████████████████░░░   88%  ▸ Advanced
-Data Visualization ████████████████████░   90%  ▸ Advanced
-SQL & Databases    █████████████████░░░░   85%  ▸ Advanced
-Deep Learning      ████████████████░░░░░   80%  ▸ Proficient
-IoT / Edge AI      ████████████████░░░░░   78%  ▸ Proficient
-Cloud (GCP/AWS)    ███████████████░░░░░░   75%  ▸ Proficient
-MLOps / Docker     ██████████████░░░░░░░   72%  ▸ Growing
-```
+<!-- ========================= SKILL PROFICIENCY MATRIX ========================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5d4,50:7b2ff7,100:ff6b6b&height=4&section=header&animation=fadeIn" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=95&text=SKILL%20PROFICIENCY%20MATRIX&fontSize=32&fontColor=EAF2FF&fontAlignY=54&desc=Analytics%20%E2%86%92%20Machine%20Learning%20%E2%86%92%20AI%20Engineering&descSize=13&descAlignY=84&descColor=38BDF8" alt="Skill Proficiency Matrix"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:081525,18:0EA5E9,50:8B5CF6,82:06B6D4,100:081525&height=3&section=header" alt="Divider"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=750&color=38BDF8&center=true&vCenter=true&width=940&lines=Transforming+Raw+Data+Into+Business+Insights...;Building+Predictive+Machine+Learning+Solutions...;Designing+Dashboards+That+Drive+Decisions...;Leveling+Up+Toward+AI+Engineering." alt="Skill animation"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/CORE_PATH-DATA_ANALYTICS_%E2%86%92_ML_%E2%86%92_GENAI-38BDF8?style=for-the-badge&labelColor=071426" alt="Core Path"/>
+&nbsp;
+<img src="https://img.shields.io/badge/BUILD_MODE-PROJECT_DRIVEN-8B5CF6?style=for-the-badge&labelColor=071426" alt="Project Driven"/>
+&nbsp;
+<img src="https://img.shields.io/badge/FOCUS-BUSINESS_IMPACT-22C55E?style=for-the-badge&labelColor=071426" alt="Business Impact"/>
 
 </div>
+
+<br/>
+
+<div align="center">
+
+### ⚔️ Core Analytics Arsenal
+
+<table>
+<tr>
+<td width="26%"><b>Skill</b></td>
+<td width="43%"><b>Proficiency Meter</b></td>
+<td width="14%" align="center"><b>Level</b></td>
+<td width="17%" align="center"><b>Focus</b></td>
+</tr>
+
+<tr>
+<td><b>Python</b></td>
+<td><code>███████████████████░</code> <b>95%</b></td>
+<td align="center"><img src="https://img.shields.io/badge/Expert-38BDF8?style=flat-square&labelColor=071426" /></td>
+<td align="center">Analytics + ML</td>
+</tr>
+
+<tr>
+<td><b>Power BI &amp; Dashboards</b></td>
+<td><code>██████████████████░░</code> <b>90%</b></td>
+<td align="center"><img src="https://img.shields.io/badge/Advanced-06B6D4?style=flat-square&labelColor=071426" /></td>
+<td align="center">Business BI</td>
+</tr>
+
+<tr>
+<td><b>Data Visualization</b></td>
+<td><code>██████████████████░░</code> <b>90%</b></td>
+<td align="center"><img src="https://img.shields.io/badge/Advanced-06B6D4?style=flat-square&labelColor=071426" /></td>
+<td align="center">Storytelling</td>
+</tr>
+
+<tr>
+<td><b>Machine Learning</b></td>
+<td><code>██████████████████░░</code> <b>88%</b></td>
+<td align="center"><img src="https://img.shields.io/badge/Advanced-8B5CF6?style=flat-square&labelColor=071426" /></td>
+<td align="center">Prediction</td>
+</tr>
+
+<tr>
+<td><b>SQL &amp; Databases</b></td>
+<td><code>█████████████████░░░</code> <b>85%</b></td>
+<td align="center"><img src="https://img.shields.io/badge/Advanced-0EA5E9?style=flat-square&labelColor=071426" /></td>
+<td align="center">Data Queries</td>
+</tr>
+
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🧠 AI Engineering Expansion Path
+
+<table>
+<tr>
+<td width="26%"><b>Skill</b></td>
+<td width="43%"><b>Proficiency Meter</b></td>
+<td width="14%" align="center"><b>Level</b></td>
+<td width="17%" align="center"><b>Current Arc</b></td>
+</tr>
+
+<tr>
+<td><b>Deep Learning</b></td>
+<td><code>████████████████░░░░</code> <b>80%</b></td>
+<td align="center"><img src="https://img.shields.io/badge/Proficient-A78BFA?style=flat-square&labelColor=071426" /></td>
+<td align="center">PyTorch</td>
+</tr>
+
+<tr>
+<td><b>Generative AI / LLMs</b></td>
+<td><code>███████████████░░░░░</code> <b>76%</b></td>
+<td align="center"><img src="https://img.shields.io/badge/Growing-8B5CF6?style=flat-square&labelColor=071426" /></td>
+<td align="center">AI Apps</td>
+</tr>
+
+<tr>
+<td><b>Cloud Deployment</b></td>
+<td><code>███████████████░░░░░</code> <b>75%</b></td>
+<td align="center"><img src="https://img.shields.io/badge/Growing-6366F1?style=flat-square&labelColor=071426" /></td>
+<td align="center">Hosting</td>
+</tr>
+
+<tr>
+<td><b>MLOps / Docker</b></td>
+<td><code>██████████████░░░░░░</code> <b>72%</b></td>
+<td align="center"><img src="https://img.shields.io/badge/Training-64748B?style=flat-square&labelColor=071426" /></td>
+<td align="center">Production ML</td>
+</tr>
+
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🧰 Technology Loadout
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,postgres,sklearn,pytorch,flask,git,github,docker,aws,gcp,vscode&theme=dark" alt="Technology Icons"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-Dashboard_Development-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Excel-Business_Analysis-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Optuna-Hyperparameter_Tuning-2563EB?style=for-the-badge" alt="Optuna"/>
+  <img src="https://img.shields.io/badge/LightGBM-Boosting_Model-06B6D4?style=for-the-badge" alt="LightGBM"/>
+</p>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 📊 Analytics
+
+<img src="https://img.shields.io/badge/KPI_REPORTING-READY-38BDF8?style=flat-square&labelColor=071426" />
+
+SQL extraction, Power BI dashboards, DAX measures, reporting automation and business insights.
+
+</td>
+<td width="33%" align="center">
+
+### 🤖 Machine Learning
+
+<img src="https://img.shields.io/badge/PREDICTIVE_MODELS-BUILDING-8B5CF6?style=flat-square&labelColor=071426" />
+
+EDA, feature engineering, model tuning, evaluation and interpretable prediction systems.
+
+</td>
+<td width="33%" align="center">
+
+### 🚀 AI Engineering
+
+<img src="https://img.shields.io/badge/NEXT_ARC-IN_PROGRESS-22C55E?style=flat-square&labelColor=071426" />
+
+Deep learning, Generative AI applications, deployment workflows and production ML.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:081525,18:0EA5E9,50:8B5CF6,82:06B6D4,100:081525&height=2&section=header" alt="Divider"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2400&pause=850&color=A78BFA&center=true&vCenter=true&width=920&lines=%E2%9C%A6+Data+skills+create+insight.;%E2%9C%A6+ML+skills+create+prediction.;%E2%9C%A6+AI+engineering+creates+intelligent+products." alt="Skill philosophy"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/CURRENT_OBJECTIVE-BUILD_PRODUCTION_READY_AI_SOLUTIONS-38BDF8?style=for-the-badge&labelColor=071426" alt="Current Objective"/>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:081525,18:0EA5E9,50:8B5CF6,82:06B6D4,100:081525&height=3&section=footer" alt="Divider"/>
+
+</div>
+
+<!-- ======================= END SKILL PROFICIENCY MATRIX ======================= -->
+
 
 ## 🌐 Final Portal — Let's Connect
 
