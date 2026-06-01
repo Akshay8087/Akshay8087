@@ -386,130 +386,160 @@ Shipping portfolio-ready applications with business impact.
 <!-- ======================= END GITHUB TRAINING ARC ======================= -->
 
 
-<!-- ========================= SKILL PROFICIENCY MATRIX ========================= -->
+<!-- ========================= SKILL COMMAND CENTER ========================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=95&text=SKILL%20PROFICIENCY%20MATRIX&fontSize=32&fontColor=EAF2FF&fontAlignY=54&desc=Analytics%20%E2%86%92%20Machine%20Learning%20%E2%86%92%20AI%20Engineering&descSize=13&descAlignY=84&descColor=38BDF8" alt="Skill Proficiency Matrix"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=135&color=0:020617,35:0EA5E9,70:8B5CF6,100:06B6D4&text=SKILL%20COMMAND%20CENTER&fontSize=34&fontColor=EAF2FF&fontAlignY=38&desc=Data%20Analytics%20%7C%20Machine%20Learning%20%7C%20AI%20Engineering&descSize=14&descAlignY=62&animation=fadeIn" alt="Skill Command Center"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:081525,18:0EA5E9,50:8B5CF6,82:06B6D4,100:081525&height=3&section=header" alt="Divider"/>
+<br/>
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=750&color=38BDF8&center=true&vCenter=true&width=940&lines=Transforming+Raw+Data+Into+Business+Insights...;Building+Predictive+Machine+Learning+Solutions...;Designing+Dashboards+That+Drive+Decisions...;Leveling+Up+Toward+AI+Engineering." alt="Skill animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=950&lines=Turning+messy+data+into+clear+business+decisions.;Building+ML+models+that+solve+real+problems.;Designing+dashboards+that+tell+powerful+stories.;Growing+toward+AI+Engineering+and+Production+ML." alt="Typing Animation"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/CORE_PATH-DATA_ANALYTICS_%E2%86%92_ML_%E2%86%92_GENAI-38BDF8?style=for-the-badge&labelColor=071426" alt="Core Path"/>
-&nbsp;
-<img src="https://img.shields.io/badge/BUILD_MODE-PROJECT_DRIVEN-8B5CF6?style=for-the-badge&labelColor=071426" alt="Project Driven"/>
-&nbsp;
-<img src="https://img.shields.io/badge/FOCUS-BUSINESS_IMPACT-22C55E?style=for-the-badge&labelColor=071426" alt="Business Impact"/>
+<img src="https://img.shields.io/badge/Core-Data%20Analytics-38BDF8?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/Track-Machine%20Learning-8B5CF6?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/Next-AI%20Engineering-22C55E?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/Mode-Project%20Driven-F97316?style=for-the-badge&labelColor=020617"/>
 
 </div>
 
 <br/>
 
-<div align="center">
-
-### ⚔️ Core Analytics Arsenal
-
-<table>
+<table width="100%">
 <tr>
-<td width="26%"><b>Skill</b></td>
-<td width="43%"><b>Proficiency Meter</b></td>
-<td width="14%" align="center"><b>Level</b></td>
-<td width="17%" align="center"><b>Focus</b></td>
+<td width="50%" valign="top">
+
+<h3 align="center">⚔️ Core Analytics Arsenal</h3>
+
+<table width="100%">
+<tr>
+<td><b>Skill</b></td>
+<td align="center"><b>Level</b></td>
+<td><b>Strength</b></td>
 </tr>
 
 <tr>
 <td><b>Python</b></td>
-<td><code>███████████████████░</code> <b>95%</b></td>
-<td align="center"><img src="https://img.shields.io/badge/Expert-38BDF8?style=flat-square&labelColor=071426" /></td>
-<td align="center">Analytics + ML</td>
+<td align="center">
+<img src="https://geps.dev/progress/95?dangerColor=ef4444&warningColor=f59e0b&successColor=38bdf8" />
+</td>
+<td>Analytics, EDA, ML pipelines</td>
 </tr>
 
 <tr>
-<td><b>Power BI &amp; Dashboards</b></td>
-<td><code>██████████████████░░</code> <b>90%</b></td>
-<td align="center"><img src="https://img.shields.io/badge/Advanced-06B6D4?style=flat-square&labelColor=071426" /></td>
-<td align="center">Business BI</td>
+<td><b>Power BI</b></td>
+<td align="center">
+<img src="https://geps.dev/progress/90?dangerColor=ef4444&warningColor=f59e0b&successColor=06b6d4" />
+</td>
+<td>Dashboards, DAX, KPI storytelling</td>
 </tr>
 
 <tr>
 <td><b>Data Visualization</b></td>
-<td><code>██████████████████░░</code> <b>90%</b></td>
-<td align="center"><img src="https://img.shields.io/badge/Advanced-06B6D4?style=flat-square&labelColor=071426" /></td>
-<td align="center">Storytelling</td>
+<td align="center">
+<img src="https://geps.dev/progress/90?dangerColor=ef4444&warningColor=f59e0b&successColor=22c55e" />
+</td>
+<td>Business insights, executive reporting</td>
+</tr>
+
+<tr>
+<td><b>SQL</b></td>
+<td align="center">
+<img src="https://geps.dev/progress/85?dangerColor=ef4444&warningColor=f59e0b&successColor=0ea5e9" />
+</td>
+<td>Joins, CTEs, data extraction</td>
 </tr>
 
 <tr>
 <td><b>Machine Learning</b></td>
-<td><code>██████████████████░░</code> <b>88%</b></td>
-<td align="center"><img src="https://img.shields.io/badge/Advanced-8B5CF6?style=flat-square&labelColor=071426" /></td>
-<td align="center">Prediction</td>
+<td align="center">
+<img src="https://geps.dev/progress/88?dangerColor=ef4444&warningColor=f59e0b&successColor=8b5cf6" />
+</td>
+<td>Prediction, evaluation, model tuning</td>
 </tr>
-
-<tr>
-<td><b>SQL &amp; Databases</b></td>
-<td><code>█████████████████░░░</code> <b>85%</b></td>
-<td align="center"><img src="https://img.shields.io/badge/Advanced-0EA5E9?style=flat-square&labelColor=071426" /></td>
-<td align="center">Data Queries</td>
-</tr>
-
 </table>
 
-</div>
+</td>
 
-<br/>
+<td width="50%" valign="top">
 
-<div align="center">
+<h3 align="center">🧠 AI Engineering Growth Path</h3>
 
-### 🧠 AI Engineering Expansion Path
-
-<table>
+<table width="100%">
 <tr>
-<td width="26%"><b>Skill</b></td>
-<td width="43%"><b>Proficiency Meter</b></td>
-<td width="14%" align="center"><b>Level</b></td>
-<td width="17%" align="center"><b>Current Arc</b></td>
+<td><b>Skill</b></td>
+<td align="center"><b>Level</b></td>
+<td><b>Current Focus</b></td>
 </tr>
 
 <tr>
 <td><b>Deep Learning</b></td>
-<td><code>████████████████░░░░</code> <b>80%</b></td>
-<td align="center"><img src="https://img.shields.io/badge/Proficient-A78BFA?style=flat-square&labelColor=071426" /></td>
-<td align="center">PyTorch</td>
+<td align="center">
+<img src="https://geps.dev/progress/80?dangerColor=ef4444&warningColor=f59e0b&successColor=a78bfa" />
+</td>
+<td>PyTorch, neural networks</td>
 </tr>
 
 <tr>
-<td><b>Generative AI / LLMs</b></td>
-<td><code>███████████████░░░░░</code> <b>76%</b></td>
-<td align="center"><img src="https://img.shields.io/badge/Growing-8B5CF6?style=flat-square&labelColor=071426" /></td>
-<td align="center">AI Apps</td>
+<td><b>Generative AI</b></td>
+<td align="center">
+<img src="https://geps.dev/progress/76?dangerColor=ef4444&warningColor=f59e0b&successColor=8b5cf6" />
+</td>
+<td>LLMs, AI apps, prompt systems</td>
 </tr>
 
 <tr>
 <td><b>Cloud Deployment</b></td>
-<td><code>███████████████░░░░░</code> <b>75%</b></td>
-<td align="center"><img src="https://img.shields.io/badge/Growing-6366F1?style=flat-square&labelColor=071426" /></td>
-<td align="center">Hosting</td>
+<td align="center">
+<img src="https://geps.dev/progress/75?dangerColor=ef4444&warningColor=f59e0b&successColor=6366f1" />
+</td>
+<td>Streamlit, Flask, hosting</td>
 </tr>
 
 <tr>
 <td><b>MLOps / Docker</b></td>
-<td><code>██████████████░░░░░░</code> <b>72%</b></td>
-<td align="center"><img src="https://img.shields.io/badge/Training-64748B?style=flat-square&labelColor=071426" /></td>
-<td align="center">Production ML</td>
+<td align="center">
+<img src="https://geps.dev/progress/72?dangerColor=ef4444&warningColor=f59e0b&successColor=64748b" />
+</td>
+<td>Production ML workflows</td>
 </tr>
 
+<tr>
+<td><b>RAG / NLP</b></td>
+<td align="center">
+<img src="https://geps.dev/progress/68?dangerColor=ef4444&warningColor=f59e0b&successColor=14b8a6" />
+</td>
+<td>Retrieval, embeddings, AI search</td>
+</tr>
 </table>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akshay8087&bg_color=020617&color=38bdf8&line=8b5cf6&point=22c55e&area=true&hide_border=true&radius=12" alt="Activity Graph"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Analytics%20Mindset-Business%20Impact-38BDF8?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/ML%20Mindset-Experiment%20%26%20Improve-8B5CF6?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/AI%20Mindset-Build%20Production%20Apps-22C55E?style=for-the-badge&labelColor=020617"/>
 
 </div>
 
 <br/>
 
 <div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,25:0EA5E9,50:8B5CF6,75:06B6D4,100:020617&height=2&section=footer" alt="Divider"/>
+
+</div>
 
 ### 🧰 Technology Loadout
 
